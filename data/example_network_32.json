@@ -1,0 +1,4983 @@
+{
+  "edges": [
+    [
+      "MAM01412",
+      "MAM01597"
+    ],
+    [
+      "MAM01412",
+      "MAM02635"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM02635"
+    ],
+    [
+      "MAM01597",
+      "MAM01261"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM02634",
+      "MAM01261"
+    ],
+    [
+      "MAM02634",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02774"
+    ],
+    [
+      "MAM02657",
+      "MAM02348"
+    ],
+    [
+      "MAM02657",
+      "MAM02774"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02444"
+    ],
+    [
+      "MAM02443",
+      "MAM02348"
+    ],
+    [
+      "MAM02443",
+      "MAM02444"
+    ],
+    [
+      "MAM01597",
+      "MAM02345"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01729",
+      "MAM02345"
+    ],
+    [
+      "MAM01729",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM03050"
+    ],
+    [
+      "MAM03049",
+      "MAM02348"
+    ],
+    [
+      "MAM03049",
+      "MAM03050"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02495"
+    ],
+    [
+      "MAM02973",
+      "MAM02348"
+    ],
+    [
+      "MAM02973",
+      "MAM02495"
+    ],
+    [
+      "MAM00129",
+      "MAM01597"
+    ],
+    [
+      "MAM00129",
+      "MAM02974"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM02974"
+    ],
+    [
+      "MAM00118",
+      "MAM01597"
+    ],
+    [
+      "MAM00118",
+      "MAM02975"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM02975"
+    ],
+    [
+      "MAM01141",
+      "MAM01597"
+    ],
+    [
+      "MAM01141",
+      "MAM02976"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM02976"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02689"
+    ],
+    [
+      "MAM02688",
+      "MAM02348"
+    ],
+    [
+      "MAM02688",
+      "MAM02689"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02678"
+    ],
+    [
+      "MAM02411",
+      "MAM02348"
+    ],
+    [
+      "MAM02411",
+      "MAM02678"
+    ],
+    [
+      "MAM01191",
+      "MAM01597"
+    ],
+    [
+      "MAM01191",
+      "MAM02117"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM02117"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02677"
+    ],
+    [
+      "MAM02676",
+      "MAM02348"
+    ],
+    [
+      "MAM02676",
+      "MAM02677"
+    ],
+    [
+      "MAM01597",
+      "MAM02101"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM02100",
+      "MAM02101"
+    ],
+    [
+      "MAM02100",
+      "MAM02348"
+    ],
+    [
+      "MAM00004",
+      "MAM01597"
+    ],
+    [
+      "MAM00004",
+      "MAM02102"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM02102"
+    ],
+    [
+      "MAM01237",
+      "MAM01597"
+    ],
+    [
+      "MAM01237",
+      "MAM02103"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM02103"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02941"
+    ],
+    [
+      "MAM02940",
+      "MAM02348"
+    ],
+    [
+      "MAM02940",
+      "MAM02941"
+    ],
+    [
+      "MAM00020",
+      "MAM01597"
+    ],
+    [
+      "MAM00020",
+      "MAM02639"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM02639"
+    ],
+    [
+      "MAM01597",
+      "MAM01586"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM02640",
+      "MAM01586"
+    ],
+    [
+      "MAM02640",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02647"
+    ],
+    [
+      "MAM02410",
+      "MAM02348"
+    ],
+    [
+      "MAM02410",
+      "MAM02647"
+    ],
+    [
+      "MAM00127",
+      "MAM00126"
+    ],
+    [
+      "MAM00127",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00126"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM00116",
+      "MAM01597"
+    ],
+    [
+      "MAM00116",
+      "MAM02638"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM02638"
+    ],
+    [
+      "MAM00106",
+      "MAM00105"
+    ],
+    [
+      "MAM00106",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00105"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02612"
+    ],
+    [
+      "MAM02611",
+      "MAM02348"
+    ],
+    [
+      "MAM02611",
+      "MAM02612"
+    ],
+    [
+      "MAM01597",
+      "MAM01773"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01772",
+      "MAM01773"
+    ],
+    [
+      "MAM01772",
+      "MAM02348"
+    ],
+    [
+      "MAM00018",
+      "MAM01597"
+    ],
+    [
+      "MAM00018",
+      "MAM01776"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM01776"
+    ],
+    [
+      "MAM00007",
+      "MAM01597"
+    ],
+    [
+      "MAM00007",
+      "MAM01777"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM01777"
+    ],
+    [
+      "MAM01236",
+      "MAM01597"
+    ],
+    [
+      "MAM01236",
+      "MAM01775"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM01775"
+    ],
+    [
+      "MAM00123",
+      "MAM00122"
+    ],
+    [
+      "MAM00123",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00122"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM00101",
+      "MAM00100"
+    ],
+    [
+      "MAM00101",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00100"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM01597",
+      "MAM02052"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM02051",
+      "MAM02052"
+    ],
+    [
+      "MAM02051",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM01725"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01724",
+      "MAM01725"
+    ],
+    [
+      "MAM01724",
+      "MAM02348"
+    ],
+    [
+      "MAM00016",
+      "MAM01597"
+    ],
+    [
+      "MAM00016",
+      "MAM01727"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM01727"
+    ],
+    [
+      "MAM00006",
+      "MAM01597"
+    ],
+    [
+      "MAM00006",
+      "MAM01726"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM01726"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02390"
+    ],
+    [
+      "MAM02637",
+      "MAM02348"
+    ],
+    [
+      "MAM02637",
+      "MAM02390"
+    ],
+    [
+      "MAM00108",
+      "MAM00107"
+    ],
+    [
+      "MAM00108",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00107"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM00125",
+      "MAM00124"
+    ],
+    [
+      "MAM00125",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00124"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM00103",
+      "MAM00102"
+    ],
+    [
+      "MAM00103",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00102"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM00121",
+      "MAM00120"
+    ],
+    [
+      "MAM00121",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00120"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM00095",
+      "MAM01597"
+    ],
+    [
+      "MAM00095",
+      "MAM01723"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM01723"
+    ],
+    [
+      "MAM00012",
+      "MAM00011"
+    ],
+    [
+      "MAM00012",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00011"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM00343",
+      "MAM00342"
+    ],
+    [
+      "MAM00343",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00342"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM00262",
+      "MAM00261"
+    ],
+    [
+      "MAM00262",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00261"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02391"
+    ],
+    [
+      "MAM02388",
+      "MAM02348"
+    ],
+    [
+      "MAM02388",
+      "MAM02391"
+    ],
+    [
+      "MAM01597",
+      "MAM01934"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01933",
+      "MAM01934"
+    ],
+    [
+      "MAM01933",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM01697"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01774",
+      "MAM01697"
+    ],
+    [
+      "MAM01774",
+      "MAM02348"
+    ],
+    [
+      "MAM01363",
+      "MAM01364"
+    ],
+    [
+      "MAM01363",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM01364"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM00119",
+      "MAM01597"
+    ],
+    [
+      "MAM00119",
+      "MAM02636"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM02636"
+    ],
+    [
+      "MAM00093",
+      "MAM00092"
+    ],
+    [
+      "MAM00093",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00092"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM00009",
+      "MAM01597"
+    ],
+    [
+      "MAM00009",
+      "MAM01770"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM01770"
+    ],
+    [
+      "MAM00023",
+      "MAM00022"
+    ],
+    [
+      "MAM00023",
+      "MAM01597"
+    ],
+    [
+      "MAM00023",
+      "MAM02039"
+    ],
+    [
+      "MAM02348",
+      "MAM00022"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM02039"
+    ],
+    [
+      "MAM00264",
+      "MAM00263"
+    ],
+    [
+      "MAM00264",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00263"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM00317",
+      "MAM00316"
+    ],
+    [
+      "MAM00317",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00316"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM01597",
+      "MAM02348"
+    ],
+    [
+      "MAM01597",
+      "MAM02644"
+    ],
+    [
+      "MAM02409",
+      "MAM02348"
+    ],
+    [
+      "MAM02409",
+      "MAM02644"
+    ],
+    [
+      "MAM00933",
+      "MAM00950"
+    ],
+    [
+      "MAM00933",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00950"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ],
+    [
+      "MAM00563",
+      "MAM00577"
+    ],
+    [
+      "MAM00563",
+      "MAM01597"
+    ],
+    [
+      "MAM02348",
+      "MAM00577"
+    ],
+    [
+      "MAM02348",
+      "MAM01597"
+    ]
+  ],
+  "nodes": [
+    {
+      "id": "MAM02973",
+      "name": "tetradecanoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02973"
+        ],
+        [
+          "hmdb",
+          "HMDB05066"
+        ],
+        [
+          "pubchem.compound",
+          "53477791"
+        ],
+        [
+          "vmhmetabolite",
+          "M02973"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM168738"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM83844"
+          ]
+        ]
+      ],
+      "neutral_formula": "C21H41NO4",
+      "charge": 0,
+      "charged_formula": "C21H41NO4",
+      "neutral_mono_mass": 371.30355880291,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 371.30355880291
+    },
+    {
+      "id": "MAM00120",
+      "name": "(7Z,10Z,13Z,16Z,19Z)-docosapentaenoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00120"
+        ],
+        [
+          "bigg.metabolite",
+          "clpndcrn"
+        ],
+        [
+          "vmhmetabolite",
+          "clpndcrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM8437"
+        ]
+      ],
+      "neutral_formula": "C29H47NO4",
+      "charge": 0,
+      "charged_formula": "C29H47NO4",
+      "neutral_mono_mass": 473.35050899610997,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 473.35050899610997
+    },
+    {
+      "id": "MAM01727",
+      "name": "docosenoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01727"
+        ],
+        [
+          "vmhmetabolite",
+          "M01727"
+        ]
+      ],
+      "neutral_formula": "C29H55NO4",
+      "charge": 0,
+      "charged_formula": "C29H55NO4",
+      "neutral_mono_mass": 481.41310925371,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 481.41310925371
+    },
+    {
+      "id": "MAM00100",
+      "name": "(5Z,8Z,11Z)-eicosatrienoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00100"
+        ],
+        [
+          "vmhmetabolite",
+          "M00100"
+        ]
+      ],
+      "neutral_formula": "C27H47NO4",
+      "charge": 0,
+      "charged_formula": "C27H47NO4",
+      "neutral_mono_mass": 449.35050899610997,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 449.35050899610997
+    },
+    {
+      "id": "MAM01141",
+      "name": "5-tetradecenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01141"
+        ],
+        [
+          "bigg.metabolite",
+          "tetde5coa"
+        ],
+        [
+          "chebi",
+          "84650"
+        ],
+        [
+          [
+            "vmhmetabolite",
+            "tetde5coa"
+          ],
+          [
+            "vmhmetabolite",
+            "M01141"
+          ]
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM1101198"
+        ]
+      ],
+      "neutral_formula": "C35H60N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C35H56N7O17P3S",
+      "neutral_mono_mass": 975.2979256653599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 975.2979256653599
+    },
+    {
+      "id": "MAM02688",
+      "name": "pentadecanoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02688"
+        ],
+        [
+          "bigg.metabolite",
+          "ptdcacrn"
+        ],
+        [
+          "vmhmetabolite",
+          "ptdcacrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM8995"
+        ]
+      ],
+      "neutral_formula": "C22H43NO4",
+      "charge": 0,
+      "charged_formula": "C22H43NO4",
+      "neutral_mono_mass": 385.31920886731,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 385.31920886731
+    },
+    {
+      "id": "MAM02348",
+      "name": "L-carnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02348"
+        ],
+        [
+          "bigg.metabolite",
+          "crn"
+        ],
+        [
+          "kegg.compound",
+          "C15025"
+        ],
+        [
+          "hmdb",
+          "HMDB00062"
+        ],
+        [
+          "chebi",
+          "11060"
+        ],
+        [
+          "pubchem.compound",
+          "2724480"
+        ],
+        [
+          "vmhmetabolite",
+          "crn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM173"
+        ]
+      ],
+      "neutral_formula": "C7H15NO3",
+      "charge": 0,
+      "charged_formula": "C7H15NO3",
+      "neutral_mono_mass": 161.10519334614003,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 161.10519334614003
+    },
+    {
+      "id": "MAM02612",
+      "name": "nonadecanoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02612"
+        ],
+        [
+          "vmhmetabolite",
+          "M02612"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM146187"
+        ]
+      ],
+      "neutral_formula": "C40H72N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C40H68N7O17P3S",
+      "neutral_mono_mass": 1047.39182605176,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1047.39182605176
+    },
+    {
+      "id": "MAM01412",
+      "name": "butyryl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01412"
+        ],
+        [
+          "bigg.metabolite",
+          "btcoa"
+        ],
+        [
+          "kegg.compound",
+          "C00136"
+        ],
+        [
+          "hmdb",
+          "HMDB01088"
+        ],
+        [
+          "chebi",
+          "57371"
+        ],
+        [
+          "pubchem.compound",
+          "265"
+        ],
+        [
+          "vmhmetabolite",
+          "btcoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM233"
+        ]
+      ],
+      "neutral_formula": "C25H42N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C25H38N7O17P3S",
+      "neutral_mono_mass": 837.1570750857599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 837.1570750857599
+    },
+    {
+      "id": "MAM00116",
+      "name": "(7Z)-octadecenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00116"
+        ],
+        [
+          "vmhmetabolite",
+          "M00116"
+        ]
+      ],
+      "neutral_formula": "C39H68N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C39H64N7O17P3S",
+      "neutral_mono_mass": 1031.36052592296,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1031.36052592296
+    },
+    {
+      "id": "MAM02391",
+      "name": "linoleoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02391"
+        ],
+        [
+          "bigg.metabolite",
+          "lnlccoa"
+        ],
+        [
+          "kegg.compound",
+          "C02050"
+        ],
+        [
+          "hmdb",
+          "HMDB01064"
+        ],
+        [
+          "chebi",
+          "15530"
+        ],
+        [
+          "pubchem.compound",
+          "5462164"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050035"
+        ],
+        [
+          "vmhmetabolite",
+          "lnlccoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM638"
+        ]
+      ],
+      "neutral_formula": "C39H66N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C39H62N7O17P3S",
+      "neutral_mono_mass": 1029.34487585856,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1029.34487585856
+    },
+    {
+      "id": "MAM02390",
+      "name": "linolenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02390"
+        ],
+        [
+          "bigg.metabolite",
+          "lnlncacoa"
+        ],
+        [
+          "kegg.compound",
+          "C16162"
+        ],
+        [
+          "hmdb",
+          "HMDB06290"
+        ],
+        [
+          "chebi",
+          "51985"
+        ],
+        [
+          "pubchem.compound",
+          "53477815"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050045"
+        ],
+        [
+          "vmhmetabolite",
+          "lnlncacoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM994"
+        ]
+      ],
+      "neutral_formula": "C39H64N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C39H60N7O17P3S",
+      "neutral_mono_mass": 1027.32922579416,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1027.32922579416
+    },
+    {
+      "id": "MAM00950",
+      "name": "4,8-dimethylnonanoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00950"
+        ],
+        [
+          "bigg.metabolite",
+          "dmnoncrn"
+        ],
+        [
+          "vmhmetabolite",
+          "dmnoncrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM8138"
+        ],
+        [
+          "inchi",
+          "InChI=1S/C18H35NO4/c1-14(2)8-7-9-15(3)10-11-18(22)23-16(12-17(20)21)13-19(4,5)6/h14-16H,7-13H2,1-6H3/t15?,16-/m1/s1"
+        ]
+      ],
+      "neutral_formula": "C18H35NO4",
+      "charge": 0,
+      "charged_formula": "C18H35NO4",
+      "neutral_mono_mass": 329.25660860971,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 329.25660860971
+    },
+    {
+      "id": "MAM02100",
+      "name": "heptadecanoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02100"
+        ],
+        [
+          "bigg.metabolite",
+          "hpdcacrn"
+        ],
+        [
+          "hmdb",
+          "HMDB06210"
+        ],
+        [
+          "pubchem.compound",
+          "53477803"
+        ],
+        [
+          "vmhmetabolite",
+          "hpdcacrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM8707"
+        ]
+      ],
+      "neutral_formula": "C24H47NO4",
+      "charge": 0,
+      "charged_formula": "C24H47NO4",
+      "neutral_mono_mass": 413.35050899610997,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 413.35050899610997
+    },
+    {
+      "id": "MAM01724",
+      "name": "docosanoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01724"
+        ],
+        [
+          "vmhmetabolite",
+          "M01724"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM158874"
+        ]
+      ],
+      "neutral_formula": "C29H57NO4",
+      "charge": 0,
+      "charged_formula": "C29H57NO4",
+      "neutral_mono_mass": 483.42875931811,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 483.42875931811
+    },
+    {
+      "id": "MAM01597",
+      "name": "CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01597"
+        ],
+        [
+          "bigg.metabolite",
+          "coa"
+        ],
+        [
+          "kegg.compound",
+          "C00010"
+        ],
+        [
+          "hmdb",
+          "HMDB01423"
+        ],
+        [
+          "chebi",
+          "1146900"
+        ],
+        [
+          "pubchem.compound",
+          "6816"
+        ],
+        [
+          "vmhmetabolite",
+          "coa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM12"
+        ]
+      ],
+      "neutral_formula": "C21H36N7O16P3S",
+      "charge": -4,
+      "charged_formula": "C21H32N7O16P3S",
+      "neutral_mono_mass": 767.1152102729899,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 767.1152102729899
+    },
+    {
+      "id": "MAM01729",
+      "name": "dodecanoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01729"
+        ],
+        [
+          "hmdb",
+          "HMDB02250"
+        ],
+        [
+          "pubchem.compound",
+          "168381"
+        ],
+        [
+          "vmhmetabolite",
+          "M01729"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM51468"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM588354"
+          ]
+        ]
+      ],
+      "neutral_formula": "C19H37NO4",
+      "charge": 0,
+      "charged_formula": "C19H37NO4",
+      "neutral_mono_mass": 343.27225867411,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 343.27225867411
+    },
+    {
+      "id": "MAM00108",
+      "name": "(6Z,9Z,12Z,15Z)-octadecatetraenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00108"
+        ],
+        [
+          "bigg.metabolite",
+          "strdnccoa"
+        ],
+        [
+          "kegg.compound",
+          "C16163"
+        ],
+        [
+          "chebi",
+          "63545"
+        ],
+        [
+          "pubchem.compound",
+          "23724640"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050046"
+        ],
+        [
+          "vmhmetabolite",
+          "strdnccoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM3361"
+        ]
+      ],
+      "neutral_formula": "C39H62N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C39H58N7O17P3S",
+      "neutral_mono_mass": 1025.31357572976,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1025.31357572976
+    },
+    {
+      "id": "MAM02640",
+      "name": "octadecenoylcarnitine(7)",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02640"
+        ],
+        [
+          "bigg.metabolite",
+          "vacccrn"
+        ],
+        [
+          "pubchem.compound",
+          "53477830"
+        ],
+        [
+          "vmhmetabolite",
+          "vacccrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM9222"
+        ]
+      ],
+      "neutral_formula": "C25H47NO4",
+      "charge": 0,
+      "charged_formula": "C25H47NO4",
+      "neutral_mono_mass": 425.35050899610997,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 425.35050899610997
+    },
+    {
+      "id": "MAM01261",
+      "name": "acetyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01261"
+        ],
+        [
+          "bigg.metabolite",
+          "accoa"
+        ],
+        [
+          "kegg.compound",
+          "C00024"
+        ],
+        [
+          "hmdb",
+          "HMDB01206"
+        ],
+        [
+          "chebi",
+          "15351"
+        ],
+        [
+          "pubchem.compound",
+          "444493"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050029"
+        ],
+        [
+          "vmhmetabolite",
+          "accoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM21"
+        ]
+      ],
+      "neutral_formula": "C23H38N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C23H34N7O17P3S",
+      "neutral_mono_mass": 809.1257749569598,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 809.1257749569598
+    },
+    {
+      "id": "MAM01237",
+      "name": "9-heptadecenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01237"
+        ],
+        [
+          "vmhmetabolite",
+          "M01237"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM146023"
+        ]
+      ],
+      "neutral_formula": "C38H66N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C38H62N7O17P3S",
+      "neutral_mono_mass": 1017.3448758585599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1017.3448758585599
+    },
+    {
+      "id": "MAM01726",
+      "name": "docosenoylcarnitine(11)",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01726"
+        ],
+        [
+          "vmhmetabolite",
+          "M01726"
+        ]
+      ],
+      "neutral_formula": "C29H55NO4",
+      "charge": 0,
+      "charged_formula": "C29H55NO4",
+      "neutral_mono_mass": 481.41310925371,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 481.41310925371
+    },
+    {
+      "id": "MAM01697",
+      "name": "dihomo-gamma-linolenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01697"
+        ],
+        [
+          "bigg.metabolite",
+          "dlnlcgcoa"
+        ],
+        [
+          "kegg.compound",
+          "C03595"
+        ],
+        [
+          "hmdb",
+          "HMDB03947"
+        ],
+        [
+          "chebi",
+          "27979"
+        ],
+        [
+          "pubchem.compound",
+          "16061156"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050011"
+        ],
+        [
+          "vmhmetabolite",
+          "dlnlcgcoa"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM1536"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM5128"
+          ]
+        ]
+      ],
+      "neutral_formula": "C41H68N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C41H64N7O17P3S",
+      "neutral_mono_mass": 1055.36052592296,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1055.36052592296
+    },
+    {
+      "id": "MAM02409",
+      "name": "L-octanoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02409"
+        ],
+        [
+          "kegg.compound",
+          "C02838"
+        ],
+        [
+          "hmdb",
+          "HMDB00791"
+        ],
+        [
+          "chebi",
+          "18102"
+        ],
+        [
+          "pubchem.compound",
+          "11953814"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07070002"
+        ],
+        [
+          "vmhmetabolite",
+          "c8crn"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM162768"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM4211"
+          ]
+        ],
+        [
+          "inchi",
+          "InChI=1S/C15H29NO4/c1-5-6-7-8-9-10-15(19)20-13(11-14(17)18)12-16(2,3)4/h13H,5-12H2,1-4H3/t13-/m1/s1"
+        ]
+      ],
+      "neutral_formula": "C15H29NO4",
+      "charge": 0,
+      "charged_formula": "C15H29NO4",
+      "neutral_mono_mass": 287.20965841651,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 287.20965841651
+    },
+    {
+      "id": "MAM02637",
+      "name": "octadecatrienoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02637"
+        ],
+        [
+          "vmhmetabolite",
+          "M02637"
+        ]
+      ],
+      "neutral_formula": "C25H43NO4",
+      "charge": 0,
+      "charged_formula": "C25H43NO4",
+      "neutral_mono_mass": 421.31920886731,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 421.31920886731
+    },
+    {
+      "id": "MAM00018",
+      "name": "(13Z)-eicosenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00018"
+        ],
+        [
+          "chebi",
+          "76563"
+        ],
+        [
+          "vmhmetabolite",
+          "M00018"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM146661"
+        ]
+      ],
+      "neutral_formula": "C41H72N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C41H68N7O17P3S",
+      "neutral_mono_mass": 1059.39182605176,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1059.39182605176
+    },
+    {
+      "id": "MAM01236",
+      "name": "9-eicosenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01236"
+        ],
+        [
+          "vmhmetabolite",
+          "M01236"
+        ]
+      ],
+      "neutral_formula": "C41H72N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C41H68N7O17P3S",
+      "neutral_mono_mass": 1059.39182605176,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1059.39182605176
+    },
+    {
+      "id": "MAM00123",
+      "name": "(8Z,11Z)-eicosadienoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00123"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050061"
+        ],
+        [
+          "vmhmetabolite",
+          "M00123"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM47370"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM499645"
+          ]
+        ]
+      ],
+      "neutral_formula": "C41H70N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C41H66N7O17P3S",
+      "neutral_mono_mass": 1057.37617598736,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1057.37617598736
+    },
+    {
+      "id": "MAM00023",
+      "name": "(13Z,16Z)-docosadienoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00023"
+        ],
+        [
+          "kegg.compound",
+          "C16645"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050037"
+        ],
+        [
+          "vmhmetabolite",
+          "M00023"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM9382"
+        ]
+      ],
+      "neutral_formula": "C43H74N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C43H70N7O17P3S",
+      "neutral_mono_mass": 1085.40747611616,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1085.40747611616
+    },
+    {
+      "id": "MAM02644",
+      "name": "octanoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02644"
+        ],
+        [
+          "bigg.metabolite",
+          "occoa"
+        ],
+        [
+          "kegg.compound",
+          "C01944"
+        ],
+        [
+          "hmdb",
+          "HMDB01070"
+        ],
+        [
+          "chebi",
+          "15533"
+        ],
+        [
+          "pubchem.compound",
+          "380"
+        ],
+        [
+          "vmhmetabolite",
+          "occoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM342"
+        ]
+      ],
+      "neutral_formula": "C29H50N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C29H46N7O17P3S",
+      "neutral_mono_mass": 893.2196753433599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 893.2196753433599
+    },
+    {
+      "id": "MAM00263",
+      "name": "10,13,16-docosatrienoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00263"
+        ],
+        [
+          "vmhmetabolite",
+          "M00263"
+        ]
+      ],
+      "neutral_formula": "C29H51NO4",
+      "charge": 0,
+      "charged_formula": "C29H51NO4",
+      "neutral_mono_mass": 477.38180912491,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 477.38180912491
+    },
+    {
+      "id": "MAM00343",
+      "name": "13,16,19-docosatrienoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00343"
+        ],
+        [
+          "vmhmetabolite",
+          "M00343"
+        ]
+      ],
+      "neutral_formula": "C43H72N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C43H68N7O17P3S",
+      "neutral_mono_mass": 1083.39182605176,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1083.39182605176
+    },
+    {
+      "id": "MAM00006",
+      "name": "(11Z)-docosenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00006"
+        ],
+        [
+          "vmhmetabolite",
+          "M00006"
+        ]
+      ],
+      "neutral_formula": "C43H76N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C43H72N7O17P3S",
+      "neutral_mono_mass": 1087.42312618056,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1087.42312618056
+    },
+    {
+      "id": "MAM01933",
+      "name": "gamma-linolenoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01933"
+        ],
+        [
+          "bigg.metabolite",
+          "lnlncgcrn"
+        ],
+        [
+          "pubchem.compound",
+          "53477819"
+        ],
+        [
+          "vmhmetabolite",
+          "lnlncgcrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM8635"
+        ]
+      ],
+      "neutral_formula": "C25H43NO4",
+      "charge": 0,
+      "charged_formula": "C25H43NO4",
+      "neutral_mono_mass": 421.31920886731,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 421.31920886731
+    },
+    {
+      "id": "MAM01934",
+      "name": "gamma-linolenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01934"
+        ],
+        [
+          "bigg.metabolite",
+          "lnlncgcoa"
+        ],
+        [
+          "kegg.compound",
+          "C03035"
+        ],
+        [
+          "hmdb",
+          "HMDB06368"
+        ],
+        [
+          "chebi",
+          "15508"
+        ],
+        [
+          "pubchem.compound",
+          "11966132"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050038"
+        ],
+        [
+          "vmhmetabolite",
+          "lnlncgcoa"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM162293"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM837"
+          ]
+        ]
+      ],
+      "neutral_formula": "C39H64N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C39H60N7O17P3S",
+      "neutral_mono_mass": 1027.32922579416,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1027.32922579416
+    },
+    {
+      "id": "MAM02689",
+      "name": "pentadecanoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02689"
+        ],
+        [
+          "bigg.metabolite",
+          "ptdcacoa"
+        ],
+        [
+          "vmhmetabolite",
+          "ptdcacoa"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM107637"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM7627"
+          ]
+        ]
+      ],
+      "neutral_formula": "C36H64N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C36H60N7O17P3S",
+      "neutral_mono_mass": 991.3292257941599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 991.3292257941599
+    },
+    {
+      "id": "MAM01364",
+      "name": "arachidonyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01364"
+        ],
+        [
+          "bigg.metabolite",
+          "arachdcoa"
+        ],
+        [
+          "kegg.compound",
+          "C02249"
+        ],
+        [
+          "hmdb",
+          "HMDB06523"
+        ],
+        [
+          "chebi",
+          "15514"
+        ],
+        [
+          "pubchem.compound",
+          "16061152"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050007"
+        ],
+        [
+          "vmhmetabolite",
+          "arachdcoa"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM430"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM90403"
+          ]
+        ]
+      ],
+      "neutral_formula": "C41H66N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C41H62N7O17P3S",
+      "neutral_mono_mass": 1053.34487585856,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1053.34487585856
+    },
+    {
+      "id": "MAM02940",
+      "name": "stearoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02940"
+        ],
+        [
+          "bigg.metabolite",
+          "stcrn"
+        ],
+        [
+          "pubchem.compound",
+          "6426855"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07070008"
+        ],
+        [
+          "vmhmetabolite",
+          "stcrn"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM82716"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM9119"
+          ]
+        ],
+        [
+          "inchi",
+          "InChI=1/C25H49NO4/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-25(29)30-23(21-24(27)28)22-26(2,3)4/h23H,5-22H2,1-4H3"
+        ]
+      ],
+      "neutral_formula": "C25H49NO4",
+      "charge": 0,
+      "charged_formula": "C25H49NO4",
+      "neutral_mono_mass": 427.36615906051,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 427.36615906051
+    },
+    {
+      "id": "MAM01363",
+      "name": "arachidonyl-carnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01363"
+        ],
+        [
+          "bigg.metabolite",
+          "arachdcrn"
+        ],
+        [
+          "vmhmetabolite",
+          "arachdcrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM8358"
+        ]
+      ],
+      "neutral_formula": "C27H45NO4",
+      "charge": 0,
+      "charged_formula": "C27H45NO4",
+      "neutral_mono_mass": 447.33485893171,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 447.33485893171
+    },
+    {
+      "id": "MAM00577",
+      "name": "2,6-dimethylheptanoyl-carnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00577"
+        ],
+        [
+          "bigg.metabolite",
+          "dmhptcrn"
+        ],
+        [
+          "hmdb",
+          "HMDB06320"
+        ],
+        [
+          "pubchem.compound",
+          "53477823"
+        ],
+        [
+          "vmhmetabolite",
+          "dmhptcrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM6683"
+        ]
+      ],
+      "neutral_formula": "C16H31NO4",
+      "charge": 0,
+      "charged_formula": "C16H31NO4",
+      "neutral_mono_mass": 301.22530848091003,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 301.22530848091003
+    },
+    {
+      "id": "MAM01586",
+      "name": "cis-vaccenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01586"
+        ],
+        [
+          "bigg.metabolite",
+          "vacccoa"
+        ],
+        [
+          "pubchem.compound",
+          "53477847"
+        ],
+        [
+          "vmhmetabolite",
+          "vacccoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM4868"
+        ]
+      ],
+      "neutral_formula": "C39H68N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C39H64N7O17P3S",
+      "neutral_mono_mass": 1031.36052592296,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1031.36052592296
+    },
+    {
+      "id": "MAM02974",
+      "name": "tetradecenoylcarnitine(5)",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02974"
+        ],
+        [
+          "vmhmetabolite",
+          "ttdcrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM163039"
+        ]
+      ],
+      "neutral_formula": "C21H39NO4",
+      "charge": 0,
+      "charged_formula": "C21H39NO4",
+      "neutral_mono_mass": 369.28790873851,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 369.28790873851
+    },
+    {
+      "id": "MAM01725",
+      "name": "docosanoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01725"
+        ],
+        [
+          "kegg.compound",
+          "C16528"
+        ],
+        [
+          "chebi",
+          "65088"
+        ],
+        [
+          "pubchem.compound",
+          "53481548"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050052"
+        ],
+        [
+          "vmhmetabolite",
+          "docoscoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM10780"
+        ]
+      ],
+      "neutral_formula": "C43H78N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C43H74N7O17P3S",
+      "neutral_mono_mass": 1089.43877624496,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1089.43877624496
+    },
+    {
+      "id": "MAM00102",
+      "name": "(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00102"
+        ],
+        [
+          "bigg.metabolite",
+          "tmndnccrn"
+        ],
+        [
+          "vmhmetabolite",
+          "tmndnccrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM9158"
+        ]
+      ],
+      "neutral_formula": "C27H43NO4",
+      "charge": 0,
+      "charged_formula": "C27H43NO4",
+      "neutral_mono_mass": 445.31920886731,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 445.31920886731
+    },
+    {
+      "id": "MAM00127",
+      "name": "(9E)-octadecenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00127"
+        ],
+        [
+          "vmhmetabolite",
+          "M00127"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM11476"
+        ]
+      ],
+      "neutral_formula": "C39H68N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C39H64N7O17P3S",
+      "neutral_mono_mass": 1031.36052592296,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1031.36052592296
+    },
+    {
+      "id": "MAM01773",
+      "name": "eicosanoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01773"
+        ],
+        [
+          "bigg.metabolite",
+          "arachcoa"
+        ],
+        [
+          "kegg.compound",
+          "C02041"
+        ],
+        [
+          "hmdb",
+          "HMDB04258"
+        ],
+        [
+          "chebi",
+          "15527"
+        ],
+        [
+          "pubchem.compound",
+          "16061151"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050006"
+        ],
+        [
+          "vmhmetabolite",
+          "arachcoa"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM1429"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM3215"
+          ]
+        ]
+      ],
+      "neutral_formula": "C41H74N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C41H70N7O17P3S",
+      "neutral_mono_mass": 1061.40747611616,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1061.40747611616
+    },
+    {
+      "id": "MAM00105",
+      "name": "(6Z,9Z)-octadecadienoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00105"
+        ],
+        [
+          "bigg.metabolite",
+          "lneldccrn"
+        ],
+        [
+          "pubchem.compound",
+          "53477834"
+        ],
+        [
+          "vmhmetabolite",
+          "lneldccrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM8845"
+        ],
+        [
+          "inchi",
+          "InChI=1/C25H45NO4/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-25(29)30-23(21-24(27)28)22-26(2,3)4/h9-10,12-13,23H,5-8,11,14-22H2,1-4H3/b10-9+,13-12+"
+        ]
+      ],
+      "neutral_formula": "C25H45NO4",
+      "charge": 0,
+      "charged_formula": "C25H45NO4",
+      "neutral_mono_mass": 423.33485893171,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 423.33485893171
+    },
+    {
+      "id": "MAM00126",
+      "name": "(9E)-octadecenoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00126"
+        ],
+        [
+          "bigg.metabolite",
+          "elaidcrn"
+        ],
+        [
+          "hmdb",
+          "HMDB06464"
+        ],
+        [
+          "pubchem.compound",
+          "53477837"
+        ],
+        [
+          "vmhmetabolite",
+          "elaidcrn"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM173930"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM8576"
+          ]
+        ],
+        [
+          "inchi",
+          "InChI=1/C25H47NO4/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-25(29)30-23(21-24(27)28)22-26(2,3)4/h12-13,23H,5-11,14-22H2,1-4H3/b13-12+"
+        ]
+      ],
+      "neutral_formula": "C25H47NO4",
+      "charge": 0,
+      "charged_formula": "C25H47NO4",
+      "neutral_mono_mass": 425.35050899610997,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 425.35050899610997
+    },
+    {
+      "id": "MAM00004",
+      "name": "(10Z)-heptadecenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00004"
+        ],
+        [
+          "vmhmetabolite",
+          "M00004"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM148601"
+        ]
+      ],
+      "neutral_formula": "C38H66N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C38H62N7O17P3S",
+      "neutral_mono_mass": 1017.3448758585599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1017.3448758585599
+    },
+    {
+      "id": "MAM02638",
+      "name": "octadecenoylcarnitine(11)",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02638"
+        ],
+        [
+          "vmhmetabolite",
+          "M02638"
+        ]
+      ],
+      "neutral_formula": "C25H47NO4",
+      "charge": 0,
+      "charged_formula": "C25H47NO4",
+      "neutral_mono_mass": 425.35050899610997,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 425.35050899610997
+    },
+    {
+      "id": "MAM02941",
+      "name": "stearoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02941"
+        ],
+        [
+          "bigg.metabolite",
+          "stcoa"
+        ],
+        [
+          "kegg.compound",
+          "C00412"
+        ],
+        [
+          "hmdb",
+          "HMDB01114"
+        ],
+        [
+          "chebi",
+          "15541"
+        ],
+        [
+          "pubchem.compound",
+          "439229"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050004"
+        ],
+        [
+          "vmhmetabolite",
+          "stcoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM272"
+        ]
+      ],
+      "neutral_formula": "C39H70N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C39H66N7O17P3S",
+      "neutral_mono_mass": 1033.37617598736,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1033.37617598736
+    },
+    {
+      "id": "MAM02388",
+      "name": "linoleic-carnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02388"
+        ],
+        [
+          "bigg.metabolite",
+          "lnlccrn"
+        ],
+        [
+          "pubchem.compound",
+          "6450015"
+        ],
+        [
+          "vmhmetabolite",
+          "lnlccrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM8847"
+        ],
+        [
+          "inchi",
+          "InChI=1S/C25H45NO4/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-25(29)30-23(21-24(27)28)22-26(2,3)4/h9-10,12-13,23H,5-8,11,14-22H2,1-4H3/b10-9-,13-12-/t23-/m1/s1"
+        ]
+      ],
+      "neutral_formula": "C25H45NO4",
+      "charge": 0,
+      "charged_formula": "C25H45NO4",
+      "neutral_mono_mass": 423.33485893171,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 423.33485893171
+    },
+    {
+      "id": "MAM00107",
+      "name": "(6Z,9Z,12Z,15Z)-octadecatetraenoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00107"
+        ],
+        [
+          "bigg.metabolite",
+          "strdnccrn"
+        ],
+        [
+          "pubchem.compound",
+          "53477835"
+        ],
+        [
+          "vmhmetabolite",
+          "strdnccrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM9118"
+        ]
+      ],
+      "neutral_formula": "C25H41NO4",
+      "charge": 0,
+      "charged_formula": "C25H41NO4",
+      "neutral_mono_mass": 419.30355880291,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 419.30355880291
+    },
+    {
+      "id": "MAM02774",
+      "name": "propanoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02774"
+        ],
+        [
+          "bigg.metabolite",
+          "ppcoa"
+        ],
+        [
+          "kegg.compound",
+          "C00100"
+        ],
+        [
+          "hmdb",
+          "HMDB01275"
+        ],
+        [
+          "chebi",
+          "15539"
+        ],
+        [
+          "pubchem.compound",
+          "439164"
+        ],
+        [
+          "vmhmetabolite",
+          "ppcoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM86"
+        ]
+      ],
+      "neutral_formula": "C24H40N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C24H36N7O17P3S",
+      "neutral_mono_mass": 823.1414250213599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 823.1414250213599
+    },
+    {
+      "id": "MAM01775",
+      "name": "eicosenoylcarnitine(11)",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01775"
+        ],
+        [
+          "vmhmetabolite",
+          "M01775"
+        ]
+      ],
+      "neutral_formula": "C27H51NO4",
+      "charge": 0,
+      "charged_formula": "C27H51NO4",
+      "neutral_mono_mass": 453.38180912491,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 453.38180912491
+    },
+    {
+      "id": "MAM03049",
+      "name": "tridecanoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM03049"
+        ],
+        [
+          "vmhmetabolite",
+          "M03049"
+        ]
+      ],
+      "neutral_formula": "C20H39NO4",
+      "charge": 0,
+      "charged_formula": "C20H39NO4",
+      "neutral_mono_mass": 357.28790873851,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 357.28790873851
+    },
+    {
+      "id": "MAM01777",
+      "name": "eicosenoylcarnitine(9)",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01777"
+        ],
+        [
+          "vmhmetabolite",
+          "M01777"
+        ]
+      ],
+      "neutral_formula": "C27H51NO4",
+      "charge": 0,
+      "charged_formula": "C27H51NO4",
+      "neutral_mono_mass": 453.38180912491,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 453.38180912491
+    },
+    {
+      "id": "MAM02676",
+      "name": "palmitoleoyl-carnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02676"
+        ],
+        [
+          "bigg.metabolite",
+          "hdcecrn"
+        ],
+        [
+          "pubchem.compound",
+          "11953816"
+        ],
+        [
+          "vmhmetabolite",
+          "hdcecrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM8716"
+        ],
+        [
+          "inchi",
+          "InChI=1S/C23H43NO4/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-23(27)28-21(19-22(25)26)20-24(2,3)4/h10-11,21H,5-9,12-20H2,1-4H3/b11-10-/t21-/m1/s1"
+        ]
+      ],
+      "neutral_formula": "C23H43NO4",
+      "charge": 0,
+      "charged_formula": "C23H43NO4",
+      "neutral_mono_mass": 397.31920886731,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 397.31920886731
+    },
+    {
+      "id": "MAM00125",
+      "name": "(8Z,11Z,14Z,17Z)-eicosatetraenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00125"
+        ],
+        [
+          "bigg.metabolite",
+          "eicostetcoa"
+        ],
+        [
+          "kegg.compound",
+          "C16164"
+        ],
+        [
+          "pubchem.compound",
+          "23724641"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050047"
+        ],
+        [
+          "vmhmetabolite",
+          "eicostetcoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM5146"
+        ]
+      ],
+      "neutral_formula": "C41H66N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C41H62N7O17P3S",
+      "neutral_mono_mass": 1053.34487585856,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1053.34487585856
+    },
+    {
+      "id": "MAM01772",
+      "name": "eicosanoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01772"
+        ],
+        [
+          "bigg.metabolite",
+          "arachcrn"
+        ],
+        [
+          "pubchem.compound",
+          "53477833"
+        ],
+        [
+          "vmhmetabolite",
+          "arachcrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM8319"
+        ]
+      ],
+      "neutral_formula": "C27H53NO4",
+      "charge": 0,
+      "charged_formula": "C27H53NO4",
+      "neutral_mono_mass": 455.39745918931,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 455.39745918931
+    },
+    {
+      "id": "MAM00121",
+      "name": "(7Z,10Z,13Z,16Z,19Z)-docosapentaenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00121"
+        ],
+        [
+          "bigg.metabolite",
+          "clpndcoa"
+        ],
+        [
+          "kegg.compound",
+          "C16166"
+        ],
+        [
+          "hmdb",
+          "HMDB06267"
+        ],
+        [
+          "chebi",
+          "63541"
+        ],
+        [
+          "pubchem.compound",
+          "53477812"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050048"
+        ],
+        [
+          "vmhmetabolite",
+          "clpndcoa"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM4529"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM97364"
+          ]
+        ]
+      ],
+      "neutral_formula": "C43H68N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C43H64N7O17P3S",
+      "neutral_mono_mass": 1079.36052592296,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1079.36052592296
+    },
+    {
+      "id": "MAM02678",
+      "name": "palmitoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02678"
+        ],
+        [
+          "bigg.metabolite",
+          "pmtcoa"
+        ],
+        [
+          "kegg.compound",
+          "C00154"
+        ],
+        [
+          "hmdb",
+          "HMDB01338"
+        ],
+        [
+          "chebi",
+          "15525"
+        ],
+        [
+          "pubchem.compound",
+          "15667"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050002"
+        ],
+        [
+          "vmhmetabolite",
+          "pmtcoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM88"
+        ]
+      ],
+      "neutral_formula": "C37H66N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C37H62N7O17P3S",
+      "neutral_mono_mass": 1005.3448758585599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1005.3448758585599
+    },
+    {
+      "id": "MAM00264",
+      "name": "10,13,16-docosatrienoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00264"
+        ],
+        [
+          "vmhmetabolite",
+          "CE4847"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM149266"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM153498"
+          ]
+        ]
+      ],
+      "neutral_formula": "C43H72N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C43H68N7O17P3S",
+      "neutral_mono_mass": 1083.39182605176,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1083.39182605176
+    },
+    {
+      "id": "MAM00563",
+      "name": "2(S),6-dimethyl-heptanoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00563"
+        ],
+        [
+          "bigg.metabolite",
+          "dmhptcoa"
+        ],
+        [
+          "vmhmetabolite",
+          "CE4798"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM163033"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM8044"
+          ]
+        ]
+      ],
+      "neutral_formula": "C30H52N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C30H48N7O17P3S",
+      "neutral_mono_mass": 907.2353254077599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 907.2353254077599
+    },
+    {
+      "id": "MAM02976",
+      "name": "tetradecenoylcarnitine(9)",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02976"
+        ],
+        [
+          "vmhmetabolite",
+          "M02976"
+        ]
+      ],
+      "neutral_formula": "C21H39NO4",
+      "charge": 0,
+      "charged_formula": "C21H39NO4",
+      "neutral_mono_mass": 369.28790873851,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 369.28790873851
+    },
+    {
+      "id": "MAM00106",
+      "name": "(6Z,9Z)-octadecadienoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00106"
+        ],
+        [
+          "bigg.metabolite",
+          "lneldccoa"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050060"
+        ],
+        [
+          "vmhmetabolite",
+          "lneldccoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM4036"
+        ]
+      ],
+      "neutral_formula": "C39H66N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C39H62N7O17P3S",
+      "neutral_mono_mass": 1029.34487585856,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1029.34487585856
+    },
+    {
+      "id": "MAM00129",
+      "name": "(9E)-tetradecenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00129"
+        ],
+        [
+          "vmhmetabolite",
+          "M00129"
+        ]
+      ],
+      "neutral_formula": "C35H60N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C35H56N7O17P3S",
+      "neutral_mono_mass": 975.2979256653599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 975.2979256653599
+    },
+    {
+      "id": "MAM00262",
+      "name": "10,13,16,19-docosatetraenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00262"
+        ],
+        [
+          "vmhmetabolite",
+          "CE4854"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM146656"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM164507"
+          ]
+        ]
+      ],
+      "neutral_formula": "C43H70N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C43H66N7O17P3S",
+      "neutral_mono_mass": 1081.37617598736,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1081.37617598736
+    },
+    {
+      "id": "MAM00012",
+      "name": "(11Z,14Z,17Z)-eicosatrienoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00012"
+        ],
+        [
+          "kegg.compound",
+          "C16179"
+        ],
+        [
+          "chebi",
+          "74328"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050044"
+        ],
+        [
+          "vmhmetabolite",
+          "M00012"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM162872"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM6497"
+          ]
+        ]
+      ],
+      "neutral_formula": "C41H68N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C41H64N7O17P3S",
+      "neutral_mono_mass": 1055.36052592296,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1055.36052592296
+    },
+    {
+      "id": "MAM02103",
+      "name": "heptadecenoylcarnitine(8)",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02103"
+        ],
+        [
+          "vmhmetabolite",
+          "M02103"
+        ]
+      ],
+      "neutral_formula": "C24H45NO4",
+      "charge": 0,
+      "charged_formula": "C24H45NO4",
+      "neutral_mono_mass": 411.33485893171,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 411.33485893171
+    },
+    {
+      "id": "MAM02443",
+      "name": "malonyl-carnitin",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02443"
+        ],
+        [
+          "hmdb",
+          "HMDB02095"
+        ],
+        [
+          "pubchem.compound",
+          "22833583"
+        ],
+        [
+          "vmhmetabolite",
+          "HC10859"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM162761"
+        ]
+      ],
+      "neutral_formula": "C10H17NO6",
+      "charge": -1,
+      "charged_formula": "C10H16NO6",
+      "neutral_mono_mass": 247.10558726925,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 247.10558726925
+    },
+    {
+      "id": "MAM02410",
+      "name": "L-oleoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02410"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM65475"
+        ]
+      ],
+      "neutral_formula": "C25H47NO4",
+      "charge": 0,
+      "charged_formula": "C25H47NO4",
+      "neutral_mono_mass": 425.35050899610997,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 425.35050899610997
+    },
+    {
+      "id": "MAM00095",
+      "name": "(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00095"
+        ],
+        [
+          "bigg.metabolite",
+          "c226coa"
+        ],
+        [
+          "kegg.compound",
+          "C16169"
+        ],
+        [
+          "chebi",
+          "65132"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050050"
+        ],
+        [
+          [
+            "vmhmetabolite",
+            "c226coa"
+          ],
+          [
+            "vmhmetabolite",
+            "CE4827"
+          ]
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM3234"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM91778"
+          ]
+        ]
+      ],
+      "neutral_formula": "C43H66N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C43H62N7O17P3S",
+      "neutral_mono_mass": 1077.34487585856,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1077.34487585856
+    },
+    {
+      "id": "MAM02117",
+      "name": "hexadecenoylcarnitine(9)",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02117"
+        ],
+        [
+          "bigg.metabolite",
+          "hdd2crn"
+        ],
+        [
+          "pubchem.compound",
+          "53477817"
+        ],
+        [
+          "vmhmetabolite",
+          "hdd2crn"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM87615"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM9167"
+          ]
+        ],
+        [
+          "inchi",
+          "InChI=1/C23H43NO4/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-23(27)28-21(19-22(25)26)20-24(2,3)4/h17-18,21H,5-16,19-20H2,1-4H3/b18-17+"
+        ]
+      ],
+      "neutral_formula": "C23H43NO4",
+      "charge": 0,
+      "charged_formula": "C23H43NO4",
+      "neutral_mono_mass": 397.31920886731,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 397.31920886731
+    },
+    {
+      "id": "MAM02102",
+      "name": "heptadecenoylcarnitine(7)",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02102"
+        ],
+        [
+          "vmhmetabolite",
+          "M02102"
+        ]
+      ],
+      "neutral_formula": "C24H45NO4",
+      "charge": 0,
+      "charged_formula": "C24H45NO4",
+      "neutral_mono_mass": 411.33485893171,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 411.33485893171
+    },
+    {
+      "id": "MAM01776",
+      "name": "eicosenoylcarnitine(7)",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01776"
+        ],
+        [
+          "vmhmetabolite",
+          "M01776"
+        ]
+      ],
+      "neutral_formula": "C27H51NO4",
+      "charge": 0,
+      "charged_formula": "C27H51NO4",
+      "neutral_mono_mass": 453.38180912491,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 453.38180912491
+    },
+    {
+      "id": "MAM02495",
+      "name": "myristoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02495"
+        ],
+        [
+          "bigg.metabolite",
+          "tdcoa"
+        ],
+        [
+          "kegg.compound",
+          "C02593"
+        ],
+        [
+          "hmdb",
+          "HMDB01521"
+        ],
+        [
+          "chebi",
+          "15532"
+        ],
+        [
+          "pubchem.compound",
+          "65113"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050008"
+        ],
+        [
+          "vmhmetabolite",
+          "tdcoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM224"
+        ]
+      ],
+      "neutral_formula": "C35H62N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C35H58N7O17P3S",
+      "neutral_mono_mass": 977.3135757297599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 977.3135757297599
+    },
+    {
+      "id": "MAM02411",
+      "name": "L-palmitoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02411"
+        ],
+        [
+          "bigg.metabolite",
+          "pmtcrn"
+        ],
+        [
+          "kegg.compound",
+          "C02990"
+        ],
+        [
+          "hmdb",
+          "HMDB00222"
+        ],
+        [
+          "chebi",
+          "17490"
+        ],
+        [
+          "pubchem.compound",
+          "11953816"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07070004"
+        ],
+        [
+          "vmhmetabolite",
+          "pmtcrn"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM162587"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM787"
+          ]
+        ],
+        [
+          "inchi",
+          "InChI=1S/C23H45NO4/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-23(27)28-21(19-22(25)26)20-24(2,3)4/h21H,5-20H2,1-4H3/t21-/m1/s1"
+        ]
+      ],
+      "neutral_formula": "C23H45NO4",
+      "charge": 0,
+      "charged_formula": "C23H45NO4",
+      "neutral_mono_mass": 399.33485893171,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 399.33485893171
+    },
+    {
+      "id": "MAM00119",
+      "name": "(7Z,10Z,13Z,16Z)-docosatetraenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00119"
+        ],
+        [
+          "bigg.metabolite",
+          "adrncoa"
+        ],
+        [
+          "kegg.compound",
+          "C16170"
+        ],
+        [
+          "chebi",
+          "63544"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050040"
+        ],
+        [
+          "vmhmetabolite",
+          "adrncoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM90397"
+        ]
+      ],
+      "neutral_formula": "C43H70N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C43H66N7O17P3S",
+      "neutral_mono_mass": 1081.37617598736,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1081.37617598736
+    },
+    {
+      "id": "MAM00261",
+      "name": "10,13,16,19-docosatetraenoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00261"
+        ],
+        [
+          "vmhmetabolite",
+          "M00261"
+        ]
+      ],
+      "neutral_formula": "C29H49NO4",
+      "charge": 0,
+      "charged_formula": "C29H49NO4",
+      "neutral_mono_mass": 475.36615906051,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 475.36615906051
+    },
+    {
+      "id": "MAM00118",
+      "name": "(7Z)-tetradecenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00118"
+        ],
+        [
+          [
+            "vmhmetabolite",
+            "CE0784"
+          ],
+          [
+            "vmhmetabolite",
+            "HC10784"
+          ]
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM163972"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM167439"
+          ]
+        ]
+      ],
+      "neutral_formula": "C35H60N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C35H56N7O17P3S",
+      "neutral_mono_mass": 975.2979256653599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 975.2979256653599
+    },
+    {
+      "id": "MAM01191",
+      "name": "7-hexadecenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01191"
+        ],
+        [
+          "bigg.metabolite",
+          "hexde7coa"
+        ],
+        [
+          "chebi",
+          "87698"
+        ],
+        [
+          [
+            "vmhmetabolite",
+            "hexde7coa"
+          ],
+          [
+            "vmhmetabolite",
+            "M01191"
+          ]
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM1101256"
+        ]
+      ],
+      "neutral_formula": "C37H64N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C37H60N7O17P3S",
+      "neutral_mono_mass": 1003.3292257941599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1003.3292257941599
+    },
+    {
+      "id": "MAM02611",
+      "name": "nonadecanoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02611"
+        ],
+        [
+          "vmhmetabolite",
+          "M02611"
+        ]
+      ],
+      "neutral_formula": "C26H51NO4",
+      "charge": 0,
+      "charged_formula": "C26H51NO4",
+      "neutral_mono_mass": 441.38180912491,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 441.38180912491
+    },
+    {
+      "id": "MAM00933",
+      "name": "4(R),8-dimethyl-nonanoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00933"
+        ],
+        [
+          "bigg.metabolite",
+          "dmnoncoa"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050034"
+        ],
+        [
+          "vmhmetabolite",
+          "CE4805"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM37161"
+        ]
+      ],
+      "neutral_formula": "C32H56N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C32H52N7O17P3S",
+      "neutral_mono_mass": 935.2666255365599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 935.2666255365599
+    },
+    {
+      "id": "MAM00020",
+      "name": "(13Z)-octadecenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00020"
+        ],
+        [
+          "vmhmetabolite",
+          "M00020"
+        ]
+      ],
+      "neutral_formula": "C39H68N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C39H64N7O17P3S",
+      "neutral_mono_mass": 1031.36052592296,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1031.36052592296
+    },
+    {
+      "id": "MAM02051",
+      "name": "heneicosanoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02051"
+        ],
+        [
+          "vmhmetabolite",
+          "M02051"
+        ]
+      ],
+      "neutral_formula": "C28H55NO4",
+      "charge": 0,
+      "charged_formula": "C28H55NO4",
+      "neutral_mono_mass": 469.41310925371,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 469.41310925371
+    },
+    {
+      "id": "MAM02635",
+      "name": "O-butanoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02635"
+        ],
+        [
+          "kegg.compound",
+          "C02862"
+        ],
+        [
+          "hmdb",
+          "HMDB02013"
+        ],
+        [
+          "pubchem.compound",
+          "439829"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07070003"
+        ],
+        [
+          "vmhmetabolite",
+          "c4crn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM65151"
+        ],
+        [
+          "inchi",
+          "InChI=1/C11H21NO4/c1-5-6-11(15)16-9(7-10(13)14)8-12(2,3)4/h9H,5-8H2,1-4H3"
+        ]
+      ],
+      "neutral_formula": "C11H21NO4",
+      "charge": 0,
+      "charged_formula": "C11H21NO4",
+      "neutral_mono_mass": 231.14705815891,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 231.14705815891
+    },
+    {
+      "id": "MAM00124",
+      "name": "(8Z,11Z,14Z,17Z)-eicosatetraenoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00124"
+        ],
+        [
+          "bigg.metabolite",
+          "eicostetcrn"
+        ],
+        [
+          "vmhmetabolite",
+          "eicostetcrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM8574"
+        ]
+      ],
+      "neutral_formula": "C27H45NO4",
+      "charge": 0,
+      "charged_formula": "C27H45NO4",
+      "neutral_mono_mass": 447.33485893171,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 447.33485893171
+    },
+    {
+      "id": "MAM00122",
+      "name": "(8Z,11Z)-eicosadienoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00122"
+        ],
+        [
+          "vmhmetabolite",
+          "M00122"
+        ]
+      ],
+      "neutral_formula": "C27H49NO4",
+      "charge": 0,
+      "charged_formula": "C27H49NO4",
+      "neutral_mono_mass": 451.36615906051,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 451.36615906051
+    },
+    {
+      "id": "MAM00022",
+      "name": "(13Z,16Z)-docosadienoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00022"
+        ],
+        [
+          "chebi",
+          "73120"
+        ],
+        [
+          "vmhmetabolite",
+          "M00022"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM149276"
+        ]
+      ],
+      "neutral_formula": "C29H53NO4",
+      "charge": -1,
+      "charged_formula": "C29H52NO4",
+      "neutral_mono_mass": 479.39745918931,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 479.39745918931
+    },
+    {
+      "id": "MAM00316",
+      "name": "12,15,18,21-tetracosatetraenoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00316"
+        ],
+        [
+          "vmhmetabolite",
+          "M00316"
+        ]
+      ],
+      "neutral_formula": "C31H53NO4",
+      "charge": 0,
+      "charged_formula": "C31H53NO4",
+      "neutral_mono_mass": 503.39745918931,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 503.39745918931
+    },
+    {
+      "id": "MAM02634",
+      "name": "O-acetylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02634"
+        ],
+        [
+          "bigg.metabolite",
+          "acrn"
+        ],
+        [
+          "kegg.compound",
+          "C02571"
+        ],
+        [
+          "hmdb",
+          "HMDB00201"
+        ],
+        [
+          "chebi",
+          "15960"
+        ],
+        [
+          "pubchem.compound",
+          "1"
+        ],
+        [
+          "vmhmetabolite",
+          "acrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM1028"
+        ],
+        [
+          "inchi",
+          "InChI=1S/C9H17NO4/c1-7(11)14-8(5-9(12)13)6-10(2,3)4/h8H,5-6H2,1-4H3/t8-/m1/s1"
+        ]
+      ],
+      "neutral_formula": "C9H17NO4",
+      "charge": 0,
+      "charged_formula": "C9H17NO4",
+      "neutral_mono_mass": 203.11575803011,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 203.11575803011
+    },
+    {
+      "id": "MAM02636",
+      "name": "ocosatetraenoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02636"
+        ],
+        [
+          "bigg.metabolite",
+          "adrncrn"
+        ],
+        [
+          "pubchem.compound",
+          "53477825"
+        ],
+        [
+          "vmhmetabolite",
+          "adrncrn"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM149513"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM8255"
+          ]
+        ]
+      ],
+      "neutral_formula": "C29H49NO4",
+      "charge": 0,
+      "charged_formula": "C29H49NO4",
+      "neutral_mono_mass": 475.36615906051,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 475.36615906051
+    },
+    {
+      "id": "MAM02639",
+      "name": "octadecenoylcarnitine(5)",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02639"
+        ],
+        [
+          "bigg.metabolite",
+          "odecrn"
+        ],
+        [
+          "hmdb",
+          "HMDB05065"
+        ],
+        [
+          "vmhmetabolite",
+          "odecrn"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM65475"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM8956"
+          ]
+        ],
+        [
+          "inchi",
+          "InChI=1S/C25H47NO4/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-25(29)30-23(21-24(27)28)22-26(2,3)4/h12-13,23H,5-11,14-22H2,1-4H3/t23-/m0/s1"
+        ]
+      ],
+      "neutral_formula": "C25H47NO4",
+      "charge": 0,
+      "charged_formula": "C25H47NO4",
+      "neutral_mono_mass": 425.35050899610997,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 425.35050899610997
+    },
+    {
+      "id": "MAM01774",
+      "name": "eicosatrienoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01774"
+        ],
+        [
+          "bigg.metabolite",
+          "dlnlcgcrn"
+        ],
+        [
+          "vmhmetabolite",
+          "dlnlcgcrn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM8541"
+        ]
+      ],
+      "neutral_formula": "C27H47NO4",
+      "charge": 0,
+      "charged_formula": "C27H47NO4",
+      "neutral_mono_mass": 449.35050899610997,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 449.35050899610997
+    },
+    {
+      "id": "MAM00093",
+      "name": "(4Z,7Z,10Z,13Z,16Z)-docosapentaenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00093"
+        ],
+        [
+          "bigg.metabolite",
+          "dcsptn1coa"
+        ],
+        [
+          "kegg.compound",
+          "C16173"
+        ],
+        [
+          "pubchem.compound",
+          "23724650"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050043"
+        ],
+        [
+          "vmhmetabolite",
+          "dcsptn1coa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM3265"
+        ]
+      ],
+      "neutral_formula": "C43H68N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C43H64N7O17P3S",
+      "neutral_mono_mass": 1079.36052592296,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1079.36052592296
+    },
+    {
+      "id": "MAM03050",
+      "name": "tridecanoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM03050"
+        ],
+        [
+          "bigg.metabolite",
+          "tridcoa"
+        ],
+        [
+          "hmdb",
+          "HMDB13109"
+        ],
+        [
+          "chebi",
+          "84061"
+        ],
+        [
+          "pubchem.compound",
+          "53481606"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050397"
+        ],
+        [
+          [
+            "vmhmetabolite",
+            "tridcoa"
+          ],
+          [
+            "vmhmetabolite",
+            "M03050"
+          ]
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM1104749"
+        ]
+      ],
+      "neutral_formula": "C34H60N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C34H56N7O17P3S",
+      "neutral_mono_mass": 963.2979256653599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 963.2979256653599
+    },
+    {
+      "id": "MAM00317",
+      "name": "12,15,18,21-tetracosatetraenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00317"
+        ],
+        [
+          "vmhmetabolite",
+          "CE4855"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM149272"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM151927"
+          ]
+        ]
+      ],
+      "neutral_formula": "C45H74N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C45H70N7O17P3S",
+      "neutral_mono_mass": 1109.40747611616,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1109.40747611616
+    },
+    {
+      "id": "MAM02101",
+      "name": "heptadecanoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02101"
+        ],
+        [
+          "bigg.metabolite",
+          "hpdcacoa"
+        ],
+        [
+          "pubchem.compound",
+          "3082004"
+        ],
+        [
+          "vmhmetabolite",
+          "hpdcacoa"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM105527"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM7415"
+          ]
+        ]
+      ],
+      "neutral_formula": "C38H68N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C38H64N7O17P3S",
+      "neutral_mono_mass": 1019.3605259229599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1019.3605259229599
+    },
+    {
+      "id": "MAM00007",
+      "name": "(11Z)-eicosenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00007"
+        ],
+        [
+          "chebi",
+          "74069"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050056"
+        ],
+        [
+          "vmhmetabolite",
+          "CE5151"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM11852"
+        ]
+      ],
+      "neutral_formula": "C41H72N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C41H68N7O17P3S",
+      "neutral_mono_mass": 1059.39182605176,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1059.39182605176
+    },
+    {
+      "id": "MAM00103",
+      "name": "(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00103"
+        ],
+        [
+          "bigg.metabolite",
+          "tmndnccoa"
+        ],
+        [
+          "kegg.compound",
+          "C16165"
+        ],
+        [
+          "pubchem.compound",
+          "52922050"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050063"
+        ],
+        [
+          "vmhmetabolite",
+          "tmndnccoa"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM1449"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM2869"
+          ]
+        ]
+      ],
+      "neutral_formula": "C41H64N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C41H60N7O17P3S",
+      "neutral_mono_mass": 1051.32922579416,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1051.32922579416
+    },
+    "",
+    {
+      "id": "MAM00342",
+      "name": "13,16,19-docosatrienoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00342"
+        ],
+        [
+          "vmhmetabolite",
+          "M00342"
+        ]
+      ],
+      "neutral_formula": "C29H51NO4",
+      "charge": 0,
+      "charged_formula": "C29H51NO4",
+      "neutral_mono_mass": 477.38180912491,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 477.38180912491
+    },
+    {
+      "id": "MAM01723",
+      "name": "docosahexaenoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01723"
+        ],
+        [
+          "bigg.metabolite",
+          "c226crn"
+        ],
+        [
+          "vmhmetabolite",
+          "c226crn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM8387"
+        ]
+      ],
+      "neutral_formula": "C29H45NO4",
+      "charge": 0,
+      "charged_formula": "C29H45NO4",
+      "neutral_mono_mass": 471.33485893171,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 471.33485893171
+    },
+    {
+      "id": "MAM02345",
+      "name": "lauroyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02345"
+        ],
+        [
+          "bigg.metabolite",
+          "ddcacoa"
+        ],
+        [
+          "kegg.compound",
+          "C01832"
+        ],
+        [
+          "hmdb",
+          "HMDB03571"
+        ],
+        [
+          "chebi",
+          "15521"
+        ],
+        [
+          "pubchem.compound",
+          "165436"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050005"
+        ],
+        [
+          "vmhmetabolite",
+          "ddcacoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM363"
+        ]
+      ],
+      "neutral_formula": "C33H58N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C33H54N7O17P3S",
+      "neutral_mono_mass": 949.2822756009599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 949.2822756009599
+    },
+    {
+      "id": "MAM02052",
+      "name": "heneicosanoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02052"
+        ],
+        [
+          "vmhmetabolite",
+          "M02052"
+        ]
+      ],
+      "neutral_formula": "C42H76N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C42H72N7O17P3S",
+      "neutral_mono_mass": 1075.42312618056,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1075.42312618056
+    },
+    {
+      "id": "MAM02677",
+      "name": "palmitoleoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02677"
+        ],
+        [
+          "bigg.metabolite",
+          "hdcoa"
+        ],
+        [
+          "hmdb",
+          "HMDB06532"
+        ],
+        [
+          "chebi",
+          "53152"
+        ],
+        [
+          "pubchem.compound",
+          "53477852"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050059"
+        ],
+        [
+          "vmhmetabolite",
+          "hdcoa"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM781"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM90167"
+          ]
+        ]
+      ],
+      "neutral_formula": "C37H64N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C37H60N7O17P3S",
+      "neutral_mono_mass": 1003.3292257941599,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1003.3292257941599
+    },
+    {
+      "id": "MAM01770",
+      "name": "eicosadienoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM01770"
+        ],
+        [
+          "vmhmetabolite",
+          "M01770"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM149270"
+        ]
+      ],
+      "neutral_formula": "C27H49NO4",
+      "charge": 0,
+      "charged_formula": "C27H49NO4",
+      "neutral_mono_mass": 451.36615906051,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 451.36615906051
+    },
+    {
+      "id": "MAM00101",
+      "name": "(5Z,8Z,11Z)-eicosatrienoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00101"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050062"
+        ],
+        [
+          "vmhmetabolite",
+          "M00101"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM47372"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM488534"
+          ]
+        ]
+      ],
+      "neutral_formula": "C41H68N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C41H64N7O17P3S",
+      "neutral_mono_mass": 1055.36052592296,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1055.36052592296
+    },
+    {
+      "id": "MAM00092",
+      "name": "(4Z,7Z,10Z,13Z,16Z)-docosapentaenoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00092"
+        ],
+        [
+          "bigg.metabolite",
+          "dcsptn1crn"
+        ],
+        [
+          "vmhmetabolite",
+          "dcsptn1crn"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM8558"
+        ]
+      ],
+      "neutral_formula": "C29H47NO4",
+      "charge": 0,
+      "charged_formula": "C29H47NO4",
+      "neutral_mono_mass": 473.35050899610997,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 473.35050899610997
+    },
+    {
+      "id": "MAM02647",
+      "name": "oleoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02647"
+        ],
+        [
+          "bigg.metabolite",
+          "odecoa"
+        ],
+        [
+          "kegg.compound",
+          "C00510"
+        ],
+        [
+          "hmdb",
+          "HMDB01322"
+        ],
+        [
+          "chebi",
+          "15534"
+        ],
+        [
+          "pubchem.compound",
+          "5280355"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050055"
+        ],
+        [
+          "vmhmetabolite",
+          "odecoa"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM1848"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM686"
+          ]
+        ]
+      ],
+      "neutral_formula": "C39H68N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C39H64N7O17P3S",
+      "neutral_mono_mass": 1031.36052592296,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1031.36052592296
+    },
+    {
+      "id": "MAM02975",
+      "name": "tetradecenoylcarnitine(7)",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02975"
+        ],
+        [
+          "vmhmetabolite",
+          "M02975"
+        ]
+      ],
+      "neutral_formula": "C21H39NO4",
+      "charge": 0,
+      "charged_formula": "C21H39NO4",
+      "neutral_mono_mass": 369.28790873851,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 369.28790873851
+    },
+    {
+      "id": "MAM02444",
+      "name": "malonyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02444"
+        ],
+        [
+          "bigg.metabolite",
+          "malcoa"
+        ],
+        [
+          "kegg.compound",
+          "C00083"
+        ],
+        [
+          "hmdb",
+          "HMDB01175"
+        ],
+        [
+          "chebi",
+          "15531"
+        ],
+        [
+          "pubchem.compound",
+          "10663"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050031"
+        ],
+        [
+          "vmhmetabolite",
+          "malcoa"
+        ],
+        [
+          "metanetx.chemical",
+          "MNXM40"
+        ]
+      ],
+      "neutral_formula": "C24H38N7O19P3S",
+      "charge": -5,
+      "charged_formula": "C24H33N7O19P3S",
+      "neutral_mono_mass": 853.1156041960999,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 853.1156041960999
+    },
+    {
+      "id": "MAM00016",
+      "name": "(13Z)-docosenoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00016"
+        ],
+        [
+          "kegg.compound",
+          "C16531"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050057"
+        ],
+        [
+          "vmhmetabolite",
+          "CE5155"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM11430"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM162947"
+          ]
+        ]
+      ],
+      "neutral_formula": "C43H76N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C43H72N7O17P3S",
+      "neutral_mono_mass": 1087.42312618056,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1087.42312618056
+    },
+    {
+      "id": "MAM00011",
+      "name": "(11Z,14Z,17Z)-eicosatrienoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00011"
+        ],
+        [
+          "vmhmetabolite",
+          "M00011"
+        ]
+      ],
+      "neutral_formula": "C27H47NO4",
+      "charge": 0,
+      "charged_formula": "C27H47NO4",
+      "neutral_mono_mass": 449.35050899610997,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 449.35050899610997
+    },
+    {
+      "id": "MAM02657",
+      "name": "O-propanoylcarnitine",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM02657"
+        ],
+        [
+          "bigg.metabolite",
+          "pcrn"
+        ],
+        [
+          "kegg.compound",
+          "C03017"
+        ],
+        [
+          "hmdb",
+          "HMDB00824"
+        ],
+        [
+          "chebi",
+          "28867"
+        ],
+        [
+          "pubchem.compound",
+          "107738"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07070005"
+        ],
+        [
+          "vmhmetabolite",
+          "pcrn"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM3074"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM6397"
+          ]
+        ],
+        [
+          "inchi",
+          "InChI=1/C10H19NO4/c1-5-10(14)15-8(6-9(12)13)7-11(2,3)4/h8H,5-7H2,1-4H3"
+        ]
+      ],
+      "neutral_formula": "C10H19NO4",
+      "charge": 0,
+      "charged_formula": "C10H19NO4",
+      "neutral_mono_mass": 217.13140809451,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 217.13140809451
+    },
+    {
+      "id": "MAM00009",
+      "name": "(11Z,14Z)-eicosadienoyl-CoA",
+      "identifiers": [
+        [
+          "humanGEM",
+          "MAM00009"
+        ],
+        [
+          "kegg.compound",
+          "C16180"
+        ],
+        [
+          "chebi",
+          "76410"
+        ],
+        [
+          "lipidmaps",
+          "LMFA07050036"
+        ],
+        [
+          "vmhmetabolite",
+          "CE4843"
+        ],
+        [
+          [
+            "metanetx.chemical",
+            "MNXM167435"
+          ],
+          [
+            "metanetx.chemical",
+            "MNXM6496"
+          ]
+        ]
+      ],
+      "neutral_formula": "C41H70N7O17P3S",
+      "charge": -4,
+      "charged_formula": "C41H66N7O17P3S",
+      "neutral_mono_mass": 1057.37617598736,
+      "SMILES": "",
+      "inchi": "",
+      "neutral_formula_mass": 1057.37617598736
+    }
+  ]
+}
