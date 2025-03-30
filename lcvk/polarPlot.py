@@ -25,6 +25,13 @@ def get_chnops_ratios(f):
     else:
         return [0] * 4
 
+
+def get_isotopic_chnops_ratios(f):
+    '''To implement'''
+    pass
+
+
+
 def get_kvli_ratios(f, ccs_offset):
     '''
     Returns H/C, NOPS coefficient, (weighted NOPS/C), CCS offset (CCS deviation from all isomers in pathway).

@@ -8,5 +8,8 @@ Version 0.1 is proof of principle.
 
 ![example_pathway](docs/source/_static/alanine.png)
 
-
-
+Example applications include
+- Visualization of metabolic pathways and maps.
+- Summurizing differential abundance in metabolomic data.
+- Display of isotopic labeling patterns.
+- Extension of metabolic knowledge by new reactions.

@@ -2,6 +2,14 @@
 # Misc. receipes; likely of bad taste
 #
 
+def differential_metabolites(list_cpds):
+    '''
+    Coloring differential metabolites from metabolomics data
+    '''
+    pass
+
+
+
 def plot_global_metabolites(allcpds):
     '''Illustration only'''
     YMAX = 2.5
