@@ -165,10 +165,9 @@ def cplot_LCVK_pathway(list_cpds, list_edges,
     # tick labels; showing original data before polar projection 
     xlabels = [ 0.8, 1.0, 1.2, 1.4, 1.6, 1.8, 2, 2.2, 2.4]
     xlabels = [x for x in xlabels if cartesian_min_x < x < cartesian_max_x]
-    if xlabels:
-        xticks = project_hc_data_radial(xlabels)
-    else:
-        xticks = []
+    if not xlabels:  # data falling out of range, forcing 
+        xlabels = [1.0, 1.1]
+    xticks = project_hc_data_radial(xlabels)
     
     ylabels = {'ratio_NOPS': 'NOPS:C', 'ratio_O_C': 'O:C', 'ratio_H_C': 'H:C'} # proper text for axis labels
     yList = [min(max(x[ydata], min_radius), max_radius) 
@@ -234,6 +233,7 @@ def cplot_LCVK_pathway(list_cpds, list_edges,
     median_y = np.median(yList)
     ax.set_rgrids([median_y])
     ax.grid(color='r', linewidth=0.05)
+    # if xticks:
     ax.set_xticks(xticks)
     ax.set_xticklabels([str(x) for x in xlabels])
     ax.text(1.5, max(yList) + .5, "H:C", ) # 
