@@ -1,0 +1,94 @@
+rt (min)	m/z (ES-)	comments
+1.57	332.17215	C15H26NO7-; has corresponding peak in ES+; not in growth medium; belongs to family of puzzling amino derivatives
+1.62	263.11389	"C11H19O7-;  also diff. in growth medium; has corresponding peak in ES+ (Na adduct, 287.11014)"
+2.19	249.09825	"C10H17O7-; found manually looking for bhas#11, but it's too late for it; not in XCMS; also diff. in growth medium"
+3.43	304.08655	C12H18NSO6-; has S; has corresponding peak in ES+; not in growth medium
+3.44	291.14526	"C13H23O7-; found manually looking for bhas#1, but it may be too late, based on bhas#9; not in XCMS; also diff. in growth medium"
+3.46	841.30273	C34H54N2PO20-; glucoside of GPE of osas#9; has corresponding peak in ES+ (843.31723); not in growth medium
+3.47	370.13742	C14H20N5O7-; not differential in ES- and ES+ on 9/2/16; not in growth medium
+3.63	212.97305	"C6H7Cl2O4-; unrelated to ascr#9, has 2 Cl; very little in growth medium"
+3.66	374.21887	C18H32NO7-; homolog of m/z 332 @ 1.57 min; has corresponding ES+ peak; also diff. in growth medium (small peak); belongs to family of puzzling amino derivatives
+3.83	679.24982	C28H44N2PO15-; GPE of osas#9; has corresponding peak in ES+; not in growth medium
+3.83	333.15628	C15H25O8-; not in ES+; not in growth medium
+3.94	567.25629	"C27H39N2O11-; related to 332.17215 based on MS/MS, its analog with oct-suc attached to 4'-position; has corresponding peak in ES+; not in growth medium"
+3.97	701.35138	"maybe in growth medium?; p.38, need to check 293.15115 --> 293.15115 is not diff. Fishy."
+4.29	561.22314	C25H37N2O10-; HCl adduct of 525.24634; N-ethanolamide of osas#9; has corresponding peaks in ES+ (527.26093 and Na adduct 549.24274); not in growth medium
+4.32	424.07098	C13H25Cl2NPO8-; contains 2 Cl; GPE of C8 fatty acid; not in ES+; not in growth medium
+4.32	644.25732	"C29H42NO15-; glucoside of osas#9; 2peaks (4.30 and 4.48 min) has NH3, Na adducts, and 510 fragment in ES+; not in growth medium"
+4.50	644.25732	C29H42NO15-; glucoside of osas#9;
+4.44	396.17993	C16H31NO8P-; GPE of C11 fatty acid; has corresponding peak in ES+; not in growth medium
+4.67	678.25476	"C30H45ClNO14-; HCl adduct of 642, C30H44NO14-; has corresponding FA adduct, 688.28418; glucoside of osas#2; 2 peaks (4.67 and 4.88 min); has corresponding peak in ES+ (NH3 adduct, 661); not in growth medium"
+4.87	678.25476	"C30H45ClNO14-; HCl adduct of 642, C30H44NO14-;  has corresponding FA adduct, 688.28418; glucoside of osas#2; 2 peaks (4.67 and 4.88 min); has corresponding peak in ES+ (NH3 adduct, 661); not in growth medium"
+4.73	529.19427	C24H33O13-; glucoside of hbas#9
+4.58	319.17623	"C15H27O7-; 2 small peaks close to each other; found manually when looking for bhas#10, but this is too late for it; not in XCMS; also diff. in growth medium"
+4.88	383.14798	"C15H28PO9-; phosphate of ascr#10; also diff. in growth medium, 4.3, 4.8, 5.05, and 5.15 min"
+4.90	448.21921	C20H34NO10-; has corresponding peak in ES+; not in growth medium
+4.92	340.15329	C13H27NPO7-; has small diff. peak in ES+; there's a peak at 5.1 in growth medium that's not diff.
+4.93	523.23016	"C25H35N2O10-, no good MS/MS; also diff. in growth medium (small peak, not pretty); since RT is the same as for 521.21423, this may be 13C2 isotope of it; p.40"
+4.94	521.21423	C25H33N2O10-; ascr#8 + Glu; has corresponding peak in ES+ (393 fragment); also diff. in growth medium
+5.00	346.13370	"C15H24NSO6-; has S; homolog of 304.08655, though fragmentation looks very different; has corresponding peak in ES+; not in growth medium"
+5.07	463.21976	C21H35O11-; glucoside of ascr#3; check its HCl adduct; also diff. in growth medium
+5.11	241.00450	"C8H11Cl2O4-; has 2 Cl, first HCl adduct is 205.02768; C8 diacid with 2 double bonds; homolog of 212.97305 @ 3.63 min; very small in growth medium (diff?)"
+5.22	465.23486	"C21H37O11-; glucoside of ascr#10, check HCl adduct; also diff. in growth medium"
+5.25	418.14124	"C15H30ClNPO8-; HCl adduct; 5.25 and 5.93 min; GPE of C10 fatty acid; 5.93 min peak also has 140 and 214 fragments, maybe HCl adduct of oxea#10; not in ES+, but there's a peak with m/z 384.17906 (ES+) at 5.25 min that's in FCS1 but not in N2; not in growth medium"
+5.26	471.18793	"C22H31O11-; has corresponding double peak in ES+ (ammonium adduct, 490.22928, and smaller Na adduct 495.18463); also diff. in growth medium (double peak)"
+5.33	412.21133	C17H35NPO8-; has corresponding peak in ES+ (double peak); peak with this mass around 5.9 min is diff. in growth medium
+5.49	410.19571	"C17H33NPO8-; peaks at 5.27 and 5.47 min, MS/MS supports phosphate, same formula as oxea#12 [Sci.Rep.2015], but elutes earlier; peak around 5.6 min is also diff. in growth medium"
+5.49	508.21994	"C25H34NO10-; only at 5.48 min, has Na adduct peak in ES+ (532.21613); not in growth medium"
+5.56	273.17120	"C14H25O5-; several peaks at 5.44, 5.54, 5.65, 5.73 min; has small peaks in ES+ corresponding to Na adducts; not in growth medium"
+5.57	510.23538	C25H36NO10-; osas#1; has 348.14453 fragment and Na adduct (534.23187) in ES+; not in growth medium
+5.59	456.23779	"C19H39NPO9-; phosphate supported by MS/MS;  GPE of C14 fatty acid (?); has corresponding peak in ES+; there's another peak of the same mass at 6.22 min, which is present in FCS1 but not in N2; there're two peaks, at 5.8 and 6.2, which are present in FCS1 growth medium but not in N2 growth medium"
+5.61	476.25070	C22H38NO10-; has corresponding peak in ES+; not in growth medium
+5.64	372.14917	C17H26NSO6-; has S; has corresponding peak in ES+; not in growth medium
+5.75	695.29083	"thas corresponding peak in ES+; also diff. in growth medium (two peaks, 5.3 and 5.7 min, tade#3.1 and 3.2)"
+5.78	424.21146	"C18H35NPO8-, presence of phosphate is supported by MS/MS; GPE of C13 fatty acid (?); has corresponding peak in ES+; not in growth medium;"
+5.79	255.02007	C9H13Cl2O4-; has 2 Cl; homolog of 241.00450; not in ES+; not in growth medium
+5.80	426.22705	"C18H37NPO8-; a little later than 424.21146 peak; presence of phosphate is supported by MS/MS; has corresponding peak in ES+; several small peaks in growth medium, not obviously diff."
+5.78	700.32025	5.78 and 5.92 min; glucosides of osas#10; has corresponding peak in ES+; not in growth medium
+5.92	700.32025	5.78 and 5.92 min; glucosides of osas#10; has corresponding peak in ES+; not in growth medium
+5.87	504.23795	"C23H39NPO9-, presence of phosphate is supported by MS/MS; in addition to common GPE fragments, also strong fragments 140.01126 and 214.04874; has corresponding peak in ES+; there's a peak at 6.1 min in growth medium, which is not diff.; MS/MS on ES+ peak gives only 334.23740 (C20H32NO3+)"
+5.89	514.18561	"HCl adduct, osas related, C24H33ClNO9-; not in growth medium"
+5.89	550.16319	"C24H34Cl2NO9-; has 2 Cl, HCl adduct of 514.18561; osas related; has corresponding peak in ES+ (498, 538); not in growth medium"
+5.93	239.02522	"C9H13Cl2O3-; has 2 Cl, check if 167.07137 is diff (-2HCl); not in growth medium"
+5.93	418.14117	"HCl adduct, C15H30ClNO8P-, has phosphate based on MS/MS, also has 140 and 214 fragments, maybe HCl adduct of oxea#10; not in growth medium"
+6.06	343.13391	"C15H23N2SO5-; 5.94 and 6.04 min, has S, no MS/MS in ES-; has corresponding peaks in ES+; very small peak in growth medium, but appears to be diff."
+6.11	442.14105	"C17H30ClNPO8-; 6.10 and 6.18 min, HCl adduct, has phosphate based on MS/MS, also has 140 and 214 fragments; has small corresponding peaks in ES+ (444.15555); MS/MS of 444.15555 in ES+ gives only 272.14105 (C14H23O2NCl+); not in growth medium"
+6.18	301.20261	"C16H29O5-; has a peak corresponding to Na adduct in ES+ (325.19846), but at 6.4 min, not clear if it's the same thing; 201.11340 is a separate peak in ES- @ 6.01 min; gives 139, 183, 201 in MS/MS, not diff.; not in growth medium"
+6.20	452.10220	"C15H29Cl2NPO8-; has 1 or 2 Cl, MS/MS overlaps with 452.24268; phosphate, 153, 171, -HCl, -2HCl in MS/MS ==> GPE of C10 fatty acid with 2 double bonds and OH group, but this RT is too late for this molecule: saturated ea#10 [Sci.Rep.2015] elutes at 6.4 min; there's a corresponding peak in ES+ (454.1167), but it's not diff, so maybe it's unrelated; not in growth medium"
+6.21	452.24268	"C20H39NPO8-, MS/MS overlaps with 452.10220; has corresponsing peak in ES+, 454.25718; not in growth medium"
+6.22	440.24258	"C19H39NPO8-, presence of phosphate is supported by MS/MS; has corresponding peak in ES+, 442.25708, MS/MS in ES+ gives 98.06040 (C5H8NO+), 252.23201 (C16H30NO+), 270.24255 (C16H32NO2+); not in growth medium"
+6.23	446.17233	"C17H34ClNPO8-; 6.14 and 6.30 min, HCl adduct, presence of phosphate is supported by MS/MS; not in growth medium"
+6.28	434.09137	"C15H27Cl2NPO7-; has 2 Cl, presence of phosphate is supported by MS/MS; phosphate, 153, 171, -HCl, -2HCl in MS/MS ==> GPE of C10 fatty acid with 2 double bonds, but RT is too late; has very small corresponding peak in ES+; not in growth medium"
+6.35	544.25366	"C22H43NPO12-; presence of phosphate is supported by MS/MS; glucoside, see glucose fragments in MS/MS ==> GPE glucoside; has corresponding peak in ES+, 546.26816, 3x diff.; MS/MS in ES+ gives 212.20088 (C13H26NO+); present in growth medium but not diff."
+6.41	368.18481	"C15H31NPO7-, presence of phosphate is supported by MS/MS; ea#10 [Sci.Rep.2015]; has corresponding peak in ES+, 370.19931, MS/MS in ES+ gives 198.18527 (C12H24NO+); also diff. in growth medium"
+6.42	281.14310	C12H25SO5-; may have S; not in ES+; present in growth medium but not diff.
+6.42	438.14355	"NaCl adduct of 380.18481, no MS/MS; not in growth medium"
+6.43	380.18481	"C16H31NPO7-, presence of phosphate is supported by MS/MS; has corresponding peak (doublet) in ES+, 382.19931, it's only 2-3x diff.; MS/MS in ES+ gives 210.18518 (C13H24NO+); not in growth medium"
+6.45	225.11349	C12H17O4-; also diff. in growth medium
+6.46	470.21649	"C19H37NPO10-; maybe glucose-phosphate-ethanolamide-C11 fatty acid; small peaks present in growth medium, but not diff.; not in ES+"
+6.49	375.23923	"C19H35O7-; bhas#22; also diff. in growth medium; p.48, 91"
+6.59	279.12747	"C12H23SO5-; has S; present in growth medium, but not diff."
+6.70	227.12935	C12H19O4-; also diff. in growth medium
+6.72	382.20074	"C16H33NPO7-, presence of phosphate is supported by MS/MS; has corresponding peak in ES+, 384.21524, only 3x diff.; MS/MS in ES+ gives 212.20082 (C13H26NO+); not diff. in growth medium; but there's another peak with the same mass at 5.9 min which is present in FCS1 growth medium but not N2 growth medium"
+6.75	436.10703	"C15H29Cl2NPO7-; has 2 Cl  -->  C15H27NO7P-; phosphate, 153, 171, -HCl, -2HCl, -74 after loss of 2 HCl in MS/MS ==> GPE of C10 fatty acid with 2 double bonds; however it elutes later than ea#10 with fully saturated chain (6.71 vs 6.37 min); maybe a fragment? but has corresponding peak in ES+, 438.12153; MS/MS in ES+ gives 194.15393 (C12H20NO+) and 266.10703 (C12H22ONCl2+); not in growth medium"
+6.76	462.22723	"C21H37NPO8-; has P based on MS/MS; has corresponding peak in ES+, 464.24173; MS/MS in ES+ gives 274.21619 (C18H28NO+) and 292.22681 (C18H30NO2+); peak with this mass at 6.1 min is present and diff. in growth medium"
+6.94	472.18796	"C19H36ClNPO8-; 6.50, 6.80, and 6.93 min, HCl adduct, presence of phosphate is supported by MS/MS; has corresponding peaks in ES+, 474.20246; not in growth medium"
+7.14	582.26947	"C25H45NPO12-; GPE glucoside; has corresponding peak in ES+, 584.28397, only 3x diff.; MS/MS in ES+ gives 250.21646 (C16H28NO+); also diff. in growth medium (double peak)"
+7.28	606.26965	"C27H45NPO12-; GPE glucoside; has corresponding peak in ES+, 608.28415; MS/MS in ES+ gives 274.21637 (C18H28NO+); also diff. in growth medium"
+7.42	532.23260	C24H39NPO10-; glucose-phosphate-ethanolamine-C16 fatty acid with 4 double bonds; not in ES+; small diff. peak at 7.2 min in growth medium
+7.44	474.20380	"C19H38ClNPO8-; 7.29 and 7.44 min (there're 2 more peaks with the same mass - check if they're also differential in FCS1), HCl adduct, presence of phosphate is supported by MS/MS; there're small corresponding peaks in ES+; not in growth medium"
+7.52	608.28552	"C27H47NPO12-; FCS1 has m/z 608.28613, slightly shifted; 2 peaks - 7.49 and 7.76 min, GPE glucoside; small peaks in ES+, 2nd peak is not very diff.; 2nd peak is also diff. in growth medium"
+7.53	596.28528	"C26H47NPO12-; GPE glucoside; has corresponding peak in ES+, 598.29978; MS/MS in ES+ gives 264.23196 (C17H30NO+); also diff. in growth medium"
+7.67	280.16898	"C13H27ClNO3-; HCl adduct, ethanolamide of saturated C11 fatty acid with one OH group; has corresponding peak in ES+ (246.2068, this mass has another diff. peak at 5.5 min in ES+), but it's only 3x idff.; MS/MS in ES+ gives 62 for 7.5 min peak --> ethanolamide; 5.3 min peak is a doublet, 1st (smaller) peak has 62, 2nd has hydrocarbon ions and H2O loss; not in growth medium, but there's a peak with this mass at 6.2 min diff in growth medium (also has Cl)"
+7.86	632.28528	C29H47NPO12-; there's another peak with the same mass at 7.68 min that's present only in FCS1 but not in N2; GPE glucoside of C18 fatty acid with 5 double bonds; has corresponding peak in ES+; also diff. in growth medium
+8.04	610.30066	"C27H49NPO12-; FCS1 has smaller peak of the same mass, which is shifted to 7.99 min; GPE glucoside, has a fragment in ES+ (450); somewhat diff. in growth medium"
+8.10	598.30084	"C26H49NPO12-; GPE glucoside, has corresponding peak in ES+; diff. in growth medium"
+8.43	458.22442	"variable; C23H37NO7P-, presence of phosphate is supported by MS/MS; has substantial 140 and 214 fragments; not in ES+; also diff. in growth medium"
+		
+		
+		
+		
+		
+		
+		
+		

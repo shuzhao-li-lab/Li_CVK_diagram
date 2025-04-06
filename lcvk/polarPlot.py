@@ -3,12 +3,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 from mass2chem.formula import parse_chemformula_dict
 
-# used for optimization
+# used for optimization # import networkx as nx
 from scipy.cluster.hierarchy import linkage, fcluster
 from scipy.spatial.distance import pdist
 from scipy.spatial.distance import euclidean
 
-# import networkx as nx
 
 def get_chnops_ratios(f):
     '''
@@ -25,12 +24,9 @@ def get_chnops_ratios(f):
     else:
         return [0] * 4
 
-
 def get_isotopic_chnops_ratios(f):
     '''To implement'''
     pass
-
-
 
 def get_kvli_ratios(f, ccs_offset):
     '''
@@ -57,7 +53,7 @@ def project_hc_data_radial(hcList,
 
 def standardize_data(list_hc_data, range_degrees=1.8):
     '''
-    Use fixed scale. Use at risk. 
+    Test using fixed scale. Use at risk. Not suitable for production. 
     Theta ranges 0.1*pi to 1.9*pi. H:C btw 0.5 and 2.5.
     Therefore HC = 2.5703939893 * x + 0.3
     '''
@@ -90,14 +86,13 @@ def calculate_clean_network(list_cpds, list_edges, formula='neutral_formula', ma
             
     return pathway_nodes, set(pathway_edges)
 
-
 def get_pathway_coordinates(pathway, cpdDict, formula='charged_formula'):
     '''
     Input a pathway in mummichog style.
     formula : neutral_formula, charged_formula
     Return coordinates {cpd: (hc, nops_c, ccs_offset), ...}
     
-    Maybe add ccs_offset later.
+    Maybe add ccs_offset or other offset methods later.
     '''
     cpds = []
     for C in pathway['cpds']:
@@ -147,8 +142,9 @@ def cplot_LCVK_pathway(list_cpds, list_edges,
                       fontsize=5, rotation=30, 
                       width=15, height=15,   # inch
                       yLabel_off=False,
-                      # marker parameters 
-                      marker='o', facecolors='blue', linewidths=.2, edgecolors='m', s=48, alpha=0.5,
+                      # marker and edge parameters 
+                      marker='o', facecolors='blue', linewidths=.2, edgecolors='m', s=48, 
+                      alpha=0.5, edge_alpha=0.1, 
                       title='', outfile='lcvk_plot.pdf', dpi=300
                       ):
     '''
@@ -218,7 +214,7 @@ def cplot_LCVK_pathway(list_cpds, list_edges,
         ax.annotate("",
             xy=layout[edge[0]], xycoords='data',
             xytext=layout[edge[1]], textcoords='data',
-            arrowprops=dict(arrowstyle="->", color="0.5", alpha=0.2,
+            arrowprops=dict(arrowstyle="->", color="0.5", alpha=edge_alpha,
                             shrinkA=5, shrinkB=5,
                             patchA=None, patchB=None,
                             connectionstyle="arc3,rad=-0.3",
