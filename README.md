@@ -6,7 +6,9 @@ This is the repo for lcvk package, which includes code, example data and noteboo
 
 Version 0.1 is proof of principle. 
 
-![example_pathway](docs/source/_static/alanine.png)
+![example_pathway_fa](docs/source/_static/worm_human_fa.png)
+
+![example_pathway_alanine](docs/source/_static/alanine.png)
 
 Example applications include
 - Visualization of metabolic pathways and maps.
