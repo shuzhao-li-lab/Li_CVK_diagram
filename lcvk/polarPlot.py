@@ -37,11 +37,12 @@ def get_kvli_ratios(f, ccs_offset):
     return hc, oc, nc, nops_c, ccs_offset
 
 def project_hc_data_radial(hcList, 
-                           min_theta=0.1*np.pi, max_theta=1.9*np.pi,
+                           min_theta=0.1*np.pi, max_theta=1.9*np.pi, 
+                           # min_hc=0.5, max_hc=2.5,
                            ):
     '''
-    Convert H:C ratios to radial theta angles.
-    min_value=0.5, max_value=2.5, 
+    Convert H:C ratios to radial theta angles. 
+    Use standardize_data for fixed H/C scale.
     '''
     _low, _high = min(hcList), max(hcList)
     range = _high - _low
@@ -51,13 +52,13 @@ def project_hc_data_radial(hcList,
         _slope = (max_theta - min_theta)/range
         return [_slope*(x-_low) + min_theta for x in hcList]
 
-def standardize_data(list_hc_data, range_degrees=1.8):
+def standardize_data(hcList, range_degrees=1.8):
     '''
-    Test using fixed scale. Use at risk. Not suitable for production. 
+    Test using fixed scale. Use at risk. 
     Theta ranges 0.1*pi to 1.9*pi. H:C btw 0.5 and 2.5.
     Therefore HC = 2.5703939893 * x + 0.3
     '''
-    return [2.827433388230814 * (x-0.5) + 0.314159265359 for x in list_hc_data]
+    return [2.827433388230814 * (x-0.5) + 0.314159265359 for x in hcList]
 
 def clean_pathway_name(name):
     return name.replace('/', '_')

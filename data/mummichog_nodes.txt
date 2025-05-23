@@ -1,0 +1,55 @@
+CPD_ID	CPD_NAME	mz_row_Statistic	From_mz_row	From_EmpiricalCompound
+C00217	D-Glutamate; D-Glutamic acid; D-Glutaminic acid; D-2-Aminoglutaric acid	8.04	row5017	E550
+C04256	N-Acetyl-D-glucosamine 1-phosphate	-6.21	row5871	E706
+C00352	D-Glucosamine 6-phosphate	11.19	row1586	E708
+C00062	L-Arginine	-5.29	row957	E461
+C12144	Phytosphingosine; 4-D-Hydroxysphinganine	-6.65	row7689	E204
+C01005	O-Phospho-L-serine	4.51	row6855	E285
+C06377	D-Galactosamine 6-phosphate	11.19	row1586	E708
+C00137	myo-Inositol	-4.6	row1009	E582
+C00051	Reduced glutathione	-20.98	row1837	E788
+C05844	5-L-Glutamyl-taurine	24.14	row1564	E68
+C00352	D-Glucosamine 6-phosphate	-4.57	row1695	E744
+C16595	4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one	9.23	row1333	E422
+C00184	Dihydroxyacetone	35.62	row204	E474
+C03740	5-L-Glutamyl-L-alanine	9.64	row6259	E373
+C05520	2-Amino-3-oxoadipate; 2-Amino-3-oxohexanedioic acid	10.41	row962	E480
+C00247	L-Sorbose; L-xylo-Hexulose	-4.6	row1009	E582
+C00542	Cystathionine	-8.17	row1370	E225
+C01801	Deoxyribose	-6.06	row447	E310
+C00186	L-Lactate	35.62	row204	E474
+C00074	Phosphoenolpyruvate	5.19	row7789	E86
+C01132	N-Acetyl-D-galactosamine	-6.72	row7261	E139
+C05198	5'-Deoxyadenosine	-4.74	row1649	E122
+C00780	Serotonin	14.27	row6211	E462
+ttdcrn	tetradecanoyl carnitine	5.32	row7026	E359
+C05839	cis-beta-D-Glucosyl-2-hydroxycinnamate; beta-D-Glucosyl-2-coumarinate	-7.68	row1994	E107
+C00398	Tryptamine	-4.25	row6217	E109
+C00330	Deoxyguanosine	4.83	row1616	E54
+C02918	1-Methylnicotinamide	4.67	row6770	E552
+C00262	Hypoxanthine	24.79	row4993	E442
+C02220	2-Aminomuconate	12.44	row5498	E386
+C00385	Xanthine	4.02	row7817	E526
+C16584	p-Hydroxyfelbamate	-4.17	row1666	E126
+C00127	Oxidized glutathione	-4.96	row2514	E493
+C04257	N-Acetyl-D-mannosamine 6-phosphate; N-Acetylmannosamine 6-phosphate	-6.21	row5871	E706
+C00319	Sphingosine	-5.48	row1798	E84
+C00127	Oxidized glutathione	-93.14	row2490	E17
+C01074	N-Acetylgalactosamine; N-Acetylchondrosamine; 2-Acetamido-2-deoxygalactose; GalNAc	11.31	row7931	E139
+C00025	L-Glutamate	8.04	row5017	E550
+C00315	Spermidine	6.45	row591	E688
+C00836	Sphinganine	-6.63	row1810	E371
+C00051	Reduced glutathione	-19.16	row1831	E290
+C00051	Reduced glutathione	-12.64	row1909	E788
+C00954	Indole-3-acetate	4.06	row965	E600
+C00147	Adenine	5.58	row453	E736
+CE1310	N-acetyl-L-cysteine	-9.18	row793	E36
+C16582	2-Hydroxyfelbamate	-8.05	row1667	E665
+C01185	Nicotinate D-ribonucleotide	6.12	row7886	E689
+C00212	Adenosine	4.83	row1616	E54
+C00294	Inosine	42.09	row7975	E662
+C00327	L-Citrulline; 2-Amino-5-ureidovaleric acid; Citrulline	42.97	row7236	E196
+C00378	Thiamin	6.85	row1610	E304
+C00128	CMP-N-acetylneuraminate	-9.51	row5121	E189
+C03824	2-Aminomuconate 6-semialdehyde	-6.59	row825	E679
+C00137	myo-Inositol	-7.06	row1239	E680

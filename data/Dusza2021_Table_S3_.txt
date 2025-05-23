@@ -1,0 +1,223 @@
+mz	time	LC_Mode	DSSTox Chemical Name	Molecular_formula
+171.13849	193.2	C18_neg	Decanoic acid	C10 H20 O2
+171.13849	193.2	C18_neg	2-Ethylhexyl acetate	C10 H20 O2
+171.13849	193.2	C18_neg	Lithium neodecanoate	NA
+171.13849	193.2	C18_neg	Octyl acetate	C10 H20 O2
+157.1227	187.8	C18_neg	Nonanoic acid	C9 H18 O2
+157.1227	187.8	C18_neg	355-Trimethylhexanoic acid	C9 H18 O2
+157.1227	187.8	C18_neg	Heptyl acetate	C9 H18 O2
+129.13886	15.5	HILIC_pos	Piperazine 124-trimethyl-	C7 H16 N2
+100.1125	27.6	HILIC_pos	Cyclohexylamine	C6 H13 N
+255.16004	183.3	C18_neg	14-Dioxacyclohexadecane-516-dione	C14 H24 O4
+255.16004	183.3	C18_neg	22-Cyclohexane-14-diylbis(methanediyloxymethanediyl)dioxirane	C14 H24 O4
+255.16004	183.3	C18_neg	Dipentyl maleate	NA
+243.15999	179.9	C18_neg	Diethyl azelate	C13 H24 O4
+269.17609	186.3	C18_neg	33-Dimethyl-15-dioxacyclopentadecane-615-dione	C15 H26 O4
+269.17609	186.3	C18_neg	14-Dioxacycloheptadecane-517-dione	C15 H26 O4
+412.96725	20.1	C18_neg	Perfluorooctanoic acid	C8 H F15 O2
+412.96725	20.1	C18_neg	Perfluoro-6-(trifluoromethyl)heptanoic acid	C8 H F15 O2
+185.15419	197.8	C18_neg	2-Ethylhexyl glycidyl ether	C11 H22 O2
+185.15419	197.8	C18_neg	355-Trimethylhexyl acetate	C11 H22 O2
+409.18396	24.9	HILIC_pos	Tetrabutylthiuram disulfide	C18 H36 N2 S4
+409.18396	24.9	HILIC_pos	Thioperoxydicarbonic diamide ((H2N)C(S)2S2) tetrakis(2-methylpropyl)-	C18 H36 N2 S4
+371.22787	25.2	HILIC_pos	Octaethylene glycol	C16 H34 O9
+273.16762	21.8	HILIC_pos	22-(Oxydimethanediyl)bis(2-ethylpropane-13-diol)	C12 H26 O5
+179.05554	20.9	C18_neg	D-Glucose	NA
+172.13337	23.3	HILIC_pos	N-((2-Methylpropoxy)methyl)methacrylamide	C9 H17 N O2
+172.13337	23.3	HILIC_pos	N-(Butoxymethyl)methacrylamide	C9 H17 N O2
+172.13337	23.3	HILIC_pos	(2266-Tetramethyl-4-oxopiperidin-1-yl)oxidanyl	NA
+247.10149	19.6	C18_neg	3-(Trimethoxysilyl)propyl methacrylate	C10 H20 O5 Si
+227.20148	211	C18_neg	Tetradecanoic acid	C14 H28 O2
+136.02177	22	HILIC_pos	Benzothiazole	C7 H5 N S
+153.12753	21.7	HILIC_pos	Camphor	C10 H16 O
+153.12753	21.7	HILIC_pos	37-Dimethyl-26-octadienal	NA
+153.12753	21.7	HILIC_pos	Dehydrolinalool	C10 H16 O
+151.05555	17.8	C18_neg	Acenaphthylene	C12 H8
+237.06623	188.3	HILIC_pos	Dibutyltin hydride	C8 H20 Sn
+201.14933	182.3	C18_neg	Neoheptaneperoxoic acid 11-dimethylethyl ester	C11 H22 O3
+213.18574	207.1	C18_neg	Butyl isononanoate	C13 H26 O2
+147.07626	208.5	HILIC_pos	2-Imidazolidinone 13-bis(hydroxymethyl)-	C5 H10 N2 O3
+265.14804	193.3	C18_neg	Sodium dodecyl sulfate	C12 H26 O4 S
+130.15924	15.9	HILIC_pos	N-Butyl-1-butanamine	C8 H19 N
+130.15924	15.9	HILIC_pos	1-Octanamine	C8 H19 N
+130.15924	15.9	HILIC_pos	2-Ethylhexylamine	C8 H19 N
+215.0556	19.4	C18_neg	2-Butenedioic acid (2Z)- mono-2-propenyl ester	C7 H8 O4
+215.0556	19.4	C18_neg	4-2-(Acryloyloxy)ethoxy-4-oxobutanoic acid	C9 H12 O6
+139.05034	29.3	HILIC_pos	p-Benzoquinone dioxime	NA
+195.10078	205.3	HILIC_pos	tert-Butyl perbenzoate	C11 H14 O3
+195.10078	205.3	HILIC_pos	Benzoic acid 4-ethoxy- ethyl ester	C11 H14 O3
+151.0755	232.3	HILIC_pos	Hexahydro-4-methyl-13-isobenzofurandione	C9 H12 O3
+151.0755	232.3	HILIC_pos	Hexahydro-4-methylphthalic anhydride	C9 H12 O3
+167.10692	23.4	HILIC_pos	tert-Butylhydroquinone	C10 H14 O2
+167.10692	23.4	HILIC_pos	4-tert-Butylcatechol	C10 H14 O2
+167.10692	23.4	HILIC_pos	(-)-Camphorquinone	C10 H14 O2
+241.21727	214.9	C18_neg	Isopropyl Laurate	C15 H30 O2
+241.21727	214.9	C18_neg	Pentadecanoic acid	C15 H30 O2
+241.21727	214.9	C18_neg	1-Tridecyl acetate	C15 H30 O2
+103.03211	216.9	HILIC_pos	Ethylene thiourea	C3 H6 N2 S
+839.83552	200.6	HILIC_pos	Phosphorous acid trioctadecyl ester	C54 H111 O3 P
+157.16998	222.5	HILIC_pos	2266-Tetramethylpiperidin-4-amine	C9 H20 N2
+170.11773	23.7	HILIC_pos	Diacetone acrylamide	C9 H15 N O2
+231.03313	29.1	C18_neg	Ethenylsilanetriyl triacetate	C8 H12 O6 Si
+249.14972	191.5	C18_neg	Benzoic acid 35-bis(11-dimethylethyl)-4-hydroxy-	C15 H22 O3
+151.04254	92.7	C18_neg	Tetramethyl orthosilicate	C4 H12 O4 Si
+507.31846	263	C18_neg	Bis(2-(2-(2-butoxyethoxy)ethoxy)ethyl) hydrogen glutarate	C25 H48 O10
+341.10893	20	C18_neg	Sucrose	NA
+175.09706	22.1	C18_neg	2-(2-Ethoxyethoxy)ethyl acetate	C8 H16 O4
+175.09706	22.1	C18_neg	tert-Butylperoxy isopropyl carbonate	C8 H16 O4
+165.05502	22.6	C18_neg	Ethylparaben	C9 H10 O3
+165.05502	22.6	C18_neg	3-Ethoxy-4-hydroxybenzaldehyde	C9 H10 O3
+103.07582	21.1	HILIC_pos	Propyl acetate	C5 H10 O2
+103.07582	21.1	HILIC_pos	Isopropyl acetate	C5 H10 O2
+103.07582	21.1	HILIC_pos	Pentanoic acid	C5 H10 O2
+103.07582	21.1	HILIC_pos	13-Dioxepane	C5 H10 O2
+103.07582	21.1	HILIC_pos	Isovaleric acid	C5 H10 O2
+103.07582	21.1	HILIC_pos	Ethyl propionate	C5 H10 O2
+391.07283	186.5	HILIC_pos	Pigment Violet 29	C24 H10 N2 O4
+209.08456	182	C18_neg	Sodium octyl sulfate	NA
+209.08456	182	C18_neg	Sodium ethasulfate	NA
+153.0912	22.2	HILIC_pos	Cumene hydroperoxide	C9 H12 O2
+153.0912	22.2	HILIC_pos	1-Phenoxy-2-propanol	C9 H12 O2
+153.0912	22.2	HILIC_pos	235-Trimethylhydroquinone	C9 H12 O2
+185.15419	197.8	C18_neg	Nonyl acetate	C11 H22 O2
+210.97736	148.4	HILIC_pos	Stannane butylhydroxyoxo-	C4 H10 O2 Sn
+213.07665	21.1	C18_neg	Diethylene glycol diacrylate	C10 H14 O5
+215.09215	24.5	C18_neg	2378-Tetrahydro-258-benzotrioxacycloundecine-19-dione	C10 H16 O5
+94.06555	20.2	HILIC_pos	Aniline	C6 H7 N
+221.15448	194	C18_neg	25-Di-tert-butylbenzene-14-diol	C14 H22 O2
+221.15448	194	C18_neg	Isobornyl methacrylate	NA
+158.11784	22.4	HILIC_pos	2-(Dimethylamino)ethyl methacrylate	C8 H15 N O2
+158.11784	22.4	HILIC_pos	NN-diethyl-3-oxobutyramide	C8 H15 N O2
+158.11784	22.4	HILIC_pos	N-(Butoxymethyl)acrylamide	C8 H15 N O2
+113.09641	22	HILIC_pos	Cyclohex-3-en-1-ylmethanol	C7 H12 O
+197.15422	180.9	C18_neg	2-Ethylhexyl 2-methyl-2-propenoate	C12 H22 O2
+197.15422	180.9	C18_neg	Octyl methacrylate	C12 H22 O2
+197.15422	180.9	C18_neg	4-tert-Butylcyclohexyl acetate	C12 H22 O2
+197.15422	180.9	C18_neg	2-tert-Butylcyclohexyl acetate	C12 H22 O2
+163.03933	21.5	C18_neg	2-Norbornene-56-dicarboxylic anhydride	C9 H8 O3
+359.20763	178.8	C18_neg	Tributyl citrate	C18 H32 O7
+102.12816	16.8	HILIC_pos	Triethylamine	C6 H15 N
+159.06558	21.6	C18_neg	Dimethyl glutarate	C7 H12 O4
+159.06558	21.6	C18_neg	Heptanedioic acid	C7 H12 O4
+133.09723	213.3	HILIC_pos	Sodium N-(2-aminoethyl)-beta-alaninate	NA
+212.11832	17.1	HILIC_pos	13-Diphenylguanidine	C13 H13 N3
+197.08145	64.7	C18_neg	22-14-Phenylenebis(oxy)diethanol	C10 H14 O4
+197.08145	64.7	C18_neg	14-Butanediol diacrylate	C10 H14 O4
+197.08145	64.7	C18_neg	Ethylene glycol dimethacrylate	C10 H14 O4
+197.08145	64.7	C18_neg	13-Butylene diacrylate	C10 H14 O4
+197.08145	64.7	C18_neg	22-Benzene-13-diylbis(oxy)diethanol	C10 H14 O4
+197.08145	64.7	C18_neg	Hexanedioic acid diethenyl ester	C10 H14 O4
+213.11294	22.2	C18_neg	33-Dimethyl-15-dioxacycloundecane-611-dione	C11 H18 O4
+187.09443	24.7	HILIC_pos	NN-Dinitrosopentamethylenetetramine	C5 H10 N6 O2
+183.06583	24.3	C18_neg	Disodium cis-endo-bicyclo(221)heptane-23-dicarboxylate	NA
+193.15908	23.4	HILIC_pos	alpha-Ionone	NA
+193.15908	23.4	HILIC_pos	1-(266-Trimethyl-3-cyclohexen-1-yl)-2-buten-1-one	C13 H20 O
+235.19062	22.6	HILIC_pos	22-Bis(tert-butylperoxy)butane	C12 H26 O4
+171.18572	15.7	HILIC_pos	Isophorone diamine	C10 H22 N2
+241.08692	144.7	C18_neg	Bisphenol-O-quinone	C15 H14 O3
+241.10801	22.8	C18_neg	Di(ethylene glycol) dimethacrylate	C12 H18 O5
+167.99382	21.7	HILIC_pos	2-Mercaptobenzothiazole	C7 H5 N S2
+134.0449	210.9	HILIC_pos	L-Aspartic acid	NA
+257.10305	22.6	C18_neg	Triethylene glycol diacrylate	C12 H18 O6
+108.0811	16.8	HILIC_pos	2-Methylaniline	C7 H9 N
+108.0811	16.8	HILIC_pos	Boron (benzenemethanamine)trifluoro- (T-4)-	C7 H9 N
+257.10234	180.8	C18_neg	Triethylene glycol diacrylate	C12 H18 O6
+345.23112	24.9	HILIC_pos	NN-Dicinnamylidene-16-hexanediamine	C24 H28 N2
+139.08678	30	HILIC_pos	24-Diaminoanisole	C7 H10 N2 O
+139.08678	30	HILIC_pos	2-Imidazolidinone 13-diethenyl-	C7 H10 N2 O
+225.14951	67.9	C18_neg	Methyl dihydrojasmonate	C13 H22 O3
+378.98531	188.9	HILIC_pos	Ammonium 48-dioxa-3H-perfluorononanoate	NA
+270.20778	234.6	C18_neg	Sodium dodecanoyl(methyl)aminoacetate	C15 H29 N O3
+195.08736	23	HILIC_pos	Isophthalyl dihydrazide	C8 H10 N4 O2
+179.07078	19.8	C18_neg	Propylparaben	C10 H12 O3
+179.07078	19.8	C18_neg	Isopropylparaben	C10 H12 O3
+363.00665	225.5	C18_neg	6:2 Fluorotelomer alcohol	C8 H5 F13 O
+133.08601	25.6	HILIC_pos	1-Methoxy-2-propyl acetate	C6 H12 O3
+133.08601	25.6	HILIC_pos	tert-Butyl peroxyacetate	C6 H12 O3
+133.08601	25.6	HILIC_pos	Butyl hydroxyacetate	C6 H12 O3
+133.08601	25.6	HILIC_pos	2-Methoxy-1-propyl acetate	C6 H12 O3
+133.08601	25.6	HILIC_pos	Ethylene glycol monoethyl ether acetate	C6 H12 O3
+133.08601	25.6	HILIC_pos	Solketal	C6 H12 O3
+163.07554	19.7	HILIC_pos	4-Ethenylphenyl acetate	C10 H10 O2
+163.07554	19.7	HILIC_pos	Benzyl acrylate	C10 H10 O2
+163.07554	19.7	HILIC_pos	Phenyl methacrylate	C10 H10 O2
+163.0395	175.8	C18_neg	2-Norbornene-56-dicarboxylic anhydride	C9 H8 O3
+183.06597	275.8	C18_neg	Disodium cis-endo-bicyclo(221)heptane-23-dicarboxylate	NA
+115.07578	22	HILIC_pos	2-Propenoic acid propyl ester	C6 H10 O2
+115.07578	22	HILIC_pos	Ethyl methacrylate	C6 H10 O2
+115.07578	22	HILIC_pos	Caprolactone	C6 H10 O2
+115.07578	22	HILIC_pos	Allyl glycidyl ether	C6 H10 O2
+115.07578	22	HILIC_pos	Isopropyl acrylate	C6 H10 O2
+163.03935	105.6	C18_neg	2-Norbornene-56-dicarboxylic anhydride	C9 H8 O3
+273.13084	23.5	HILIC_pos	Diphenyldiethoxysilane	C16 H20 O2 Si
+227.12882	183.6	C18_neg	Dibutyl maleate	NA
+227.12882	183.6	C18_neg	14-Dioxatetradecane-514-dione	C12 H20 O4
+227.12882	183.6	C18_neg	18-Dioxacyclotetradecane-27-dione	C12 H20 O4
+116.07098	59.3	HILIC_pos	2-Propenamide N-(hydroxymethyl)-2-methyl-	C5 H9 N O2
+381.23046	278.1	C18_neg	Urea NN-16-hexanediylbisN-(phenylmethyl)-	C22 H30 N4 O2
+171.1382	20.2	HILIC_pos	n-Hexyl methacrylate	C10 H18 O2
+171.1382	20.2	HILIC_pos	Prop-2-en-1-yl heptanoate	C10 H18 O2
+151.04321	20.6	C18_neg	Tetramethyl orthosilicate	C4 H12 O4 Si
+195.12249	25.7	HILIC_pos	Tetraethylene glycol	C8 H18 O5
+169.04996	22.6	C18_neg	Ethylene acrylate	C8 H10 O4
+229.07248	19.6	C18_neg	(2-((2-Methyl-1-oxoallyl)oxy)ethyl) hydrogen succinate	C10 H14 O6
+95.06078	25.3	HILIC_pos	1H-Imidazole 1-ethenyl-	C5 H6 N2
+109.06514	23.2	HILIC_pos	Benzyl alcohol	C7 H8 O
+109.06514	23.2	HILIC_pos	o-Cresol	C7 H8 O
+109.06514	23.2	HILIC_pos	p-Cresol	C7 H8 O
+109.06514	23.2	HILIC_pos	m-Cresol	C7 H8 O
+197.08149	128.1	C18_neg	22-14-Phenylenebis(oxy)diethanol	C10 H14 O4
+197.08149	128.1	C18_neg	14-Butanediol diacrylate	C10 H14 O4
+197.08149	128.1	C18_neg	Ethylene glycol dimethacrylate	C10 H14 O4
+197.08149	128.1	C18_neg	13-Butylene diacrylate	C10 H14 O4
+197.08149	128.1	C18_neg	22-Benzene-13-diylbis(oxy)diethanol	C10 H14 O4
+197.08149	128.1	C18_neg	Hexanedioic acid diethenyl ester	C10 H14 O4
+179.1067	283.3	HILIC_pos	4-tert-Butylbenzoic acid	C11 H14 O2
+179.1067	283.3	HILIC_pos	Butyl benzoate	C11 H14 O2
+301.12925	22.5	C18_neg	Tetraethylene glycol diacrylate	C14 H22 O7
+225.1858	289.5	C18_neg	2479-Tetramethyl-5-decyne-47-diol	C14 H26 O2
+225.1858	289.5	C18_neg	Decyl methacrylate	C14 H26 O2
+225.1858	289.5	C18_neg	Dodecanoic acid ethenyl ester	C14 H26 O2
+225.1858	289.5	C18_neg	9-Tetradecenoic acid (9Z)-	NA
+138.09152	18.4	HILIC_pos	2-Methoxy-5-methylaniline	C8 H11 N O
+285.20739	190.4	C18_neg	224-Trimethyl-13-pentanediol diisobutyrate	C16 H30 O4
+285.20739	190.4	C18_neg	Peroxide bis(1-oxooctyl)	C16 H30 O4
+285.20739	190.4	C18_neg	25-Bis(tert-butylperoxy)-25-dimethyl-3-hexyne	C16 H30 O4
+194.11713	22.1	HILIC_pos	Parbenate	C11 H15 N O2
+310.97542	211.6	HILIC_pos	Duralink HTS	NA
+209.11747	22.7	HILIC_pos	Benzenecarboperoxoic acid 11-dimethylpropyl ester	C12 H16 O3
+209.11747	22.7	HILIC_pos	2-Phenoxyethyl isobutyrate	C12 H16 O3
+209.11747	22.7	HILIC_pos	Pentyl 2-hydroxybenzoate	C12 H16 O3
+127.1121	21.7	HILIC_pos	35-Dimethyl-1-hexyn-3-ol	C8 H14 O
+127.1121	21.7	HILIC_pos	1-Octyn-3-ol	NA
+200.20104	286	HILIC_pos	Dodecanamide	C12 H25 N O
+647.4557	51.6	HILIC_pos	Tris(24-di-tert-butylphenyl) phosphite	C42 H63 O3 P
+114.09158	258.6	HILIC_pos	Caprolactam	C6 H11 N O
+114.09158	258.6	HILIC_pos	1-Ethyl-2-pyrrolidinone	C6 H11 N O
+415.05722	192.3	C18_neg	CI Pigment Orange 36	NA
+123.09192	19.3	HILIC_pos	24-Diaminotoluene	C7 H10 N2
+123.09192	19.3	HILIC_pos	26-Toluenediamine	C7 H10 N2
+173.11775	76.2	C18_neg	Propaneperoxoic acid 22-dimethyl- 11-dimethylethyl ester	C9 H18 O3
+964.53541	171.5	HILIC_pos	11-(Isopropylidene)bis(35-dibromo-4-(23-dibromo-2-methylpropoxy)benzene)	C23 H24 Br8 O2
+198.18537	21.9	HILIC_pos	Azacyclotridecan-2-one	C12 H23 N O
+198.18537	21.9	HILIC_pos	1-Octyl-2-pyrrolidone	C12 H23 N O
+213.11288	186.3	C18_neg	33-Dimethyl-15-dioxacycloundecane-611-dione	C11 H18 O4
+93.07033	21.9	HILIC_pos	Toluene	C7 H8
+249.0325	284.5	C18_neg	Diphenyl phosphate	C12 H11 O4 P
+229.14429	110.9	C18_neg	16-Hexanediol diglycidyl ether	C12 H22 O4
+229.14429	110.9	C18_neg	Dodecanedioic acid	C12 H22 O4
+229.14429	110.9	C18_neg	Dimethyl decanedioate	C12 H22 O4
+279.09359	77.3	HILIC_pos	Triphenylphosphine oxide	C18 H15 O P
+150.11254	25.2	HILIC_pos	Triethanolamine	C6 H15 N O3
+225.113	17.8	C18_neg	16-Hexanediol diacrylate	C12 H18 O4
+225.113	17.8	C18_neg	Butane-14-diyl bis(2-methylprop-2-enoate)	C12 H18 O4
+225.113	17.8	C18_neg	1-Methyltrimethylene dimethacrylate	NA
+126.0914	47.9	HILIC_pos	Isocyanatocyclohexane	C7 H11 N O
+254.12134	283.2	C18_neg	N-3-(Trimethoxysilyl)propylaniline	C12 H21 N O3 Si
+213.14938	240.8	C18_neg	22-Bis(prop-2-en-1-yloxy)methylbutan-1-ol	C12 H22 O3
+141.0912	227.9	HILIC_pos	4-Vinyl-1-cyclohexene dioxide	C8 H12 O2
+125.09636	22.4	HILIC_pos	1-Ethynylcyclohexanol	C8 H12 O
+395.3898	273.5	C18_neg	2-Ethylhexyl octadecanoate	C26 H52 O2
+395.3898	273.5	C18_neg	Ethyl tetracosanate	C26 H52 O2
+647.45774	46.7	HILIC_pos	Tris(24-di-tert-butylphenyl) phosphite	C42 H63 O3 P
+279.12736	185.5	C18_neg	Tris(2-methoxyethoxy)vinylsilane	C11 H24 O6 Si
