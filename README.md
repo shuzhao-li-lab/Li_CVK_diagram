@@ -2,6 +2,8 @@
 
 We postulate that a coordinate system based on elemental ratios can support a new generation of metabolic pathway visualization at the interface between humans and computers. 
 
+Preprint is released: https://www.biorxiv.org/content/10.1101/2025.05.31.657198v1
+
 This is the repo for lcvk package, which includes code, example data and notebook templates.
 
 Version 0.1 is proof of principle. 
